@@ -39,7 +39,7 @@
           }
         ]
       },
-      "title": "Versorgung mit öffentlichen Grünflächen insgesamt"
+      "title": "Unmittelbarer wirtschaftlicher Schaden im Verhältnis zum globalen BIP, Schäden kritischer Infrastruktur und Anzahl der Ausfälle von Grundversorgungsleistungen infolge von Katastrophen"
     },
     {
       "path": "7-2-2/data.csv",
@@ -63,7 +63,7 @@
           }
         ]
       },
-      "title": "Stromerzeugung auf bezirkseigenen Gebäuden (kWh/Jahr)"
+      "title": "global_indicators.7-2-2-title"
     },
     {
       "path": "4-3-1/data.csv",
@@ -99,7 +99,7 @@
           }
         ]
       },
-      "title": "Anzahl der Volkshochschul (VHS) Kurse zum Themenbereich Globales lernen, 'Bildung für nachhaltige Entwicklung' (BNE) und SDGs"
+      "title": "Teilnahmequote von Jugendlichen und Erwachsenen an formaler und non-formaler Bildung und Ausbildung in den vergangenen 12 Monaten, nach Geschlecht"
     },
     {
       "path": "8-3-1/data.csv",
@@ -135,7 +135,7 @@
           }
         ]
       },
-      "title": "Anteil der Beschäftigten mit Einwanderungsgeschichte"
+      "title": "Anteil der informellen Beschäftigung an allen Beschäftigungsverhältnissen außerhalb der Landwirtschaft, nach Geschlecht"
     },
     {
       "path": "5-5-1/data.csv",
@@ -172,7 +172,7 @@
           }
         ]
       },
-      "title": "Frauenanteil in der Bezirksverordnetenversammlung (BVV) Treptow-Köpenicks"
+      "title": "Frauenanteil in (a) nationalen Parlamenten und (b) lokalen Regierungen"
     },
     {
       "path": "15-2-1/data.csv",
@@ -196,7 +196,7 @@
           }
         ]
       },
-      "title": "Anzahl der Teilnahmen des Bezirks an Netzwerktreffen und Veranstaltungen des „Akteursnetzwerk biologische Vielfalt“ pro Jahr"
+      "title": "Fortschritt bei der nachhaltigen Waldbewirtschaftung"
     },
     {
       "path": "17-5-1/data.csv",
@@ -232,7 +232,7 @@
           }
         ]
       },
-      "title": "Noch zu definieren"
+      "title": "Anzahl der Staaten, die Investitionsförderprogramme für die am wenigsten entwickelten Länder einführen und umsetzen"
     },
     {
       "path": "15-3-1/data.csv",
@@ -269,7 +269,7 @@
           }
         ]
       },
-      "title": "Naturschutzgebiete und Landschaftsschutzgebiete (Fläche in ha)"
+      "title": "Anteil der Fläche, die von Bodendegradation betroffenen ist, an der gesamten Landfläche"
     },
     {
       "path": "7-3-1/data.csv",
@@ -308,7 +308,7 @@
           }
         ]
       },
-      "title": "Photovoltaik - Summe der Anlagen im Bezirk"
+      "title": "Energieintensität gemessen als Primärenergie zum BIP"
     },
     {
       "path": "11-2-2/data.csv",
@@ -332,7 +332,7 @@
           }
         ]
       },
-      "title": "Anzahl der Imker im Bezirk"
+      "title": "global_indicators.11-2-2-title"
     },
     {
       "path": "6-2-1/data.csv",
@@ -356,7 +356,7 @@
           }
         ]
       },
-      "title": "Anzahl außerschulischer Einrichtungen der Natur- und Umweltbildung / Bildung für Nachhaltige Entwicklung (BNE)"
+      "title": "Anteil der Bevölkerung mit (a) Zugang zu sicherer Sanitärversorgung und (b) einem Handwaschbecken mit Seife und Wasser"
     },
     {
       "path": "3-1-1/data.csv",
@@ -380,7 +380,7 @@
           }
         ]
       },
-      "title": "Stadtradeln - Anzahl der Personen die teilnehmen"
+      "title": "Müttersterblichkeitsrate"
     },
     {
       "path": "13-2-3/data.csv",
@@ -404,7 +404,7 @@
           }
         ]
       },
-      "title": "Kilometer Radschnellwege im Bezirk"
+      "title": "global_indicators.13-2-3-title"
     },
     {
       "path": "14-3-1/data.csv",
@@ -440,7 +440,7 @@
           }
         ]
       },
-      "title": "Noch zu definieren"
+      "title": "Durchschnittliche Versauerung der Meere (pH) gemessen an einer vereinbarten Reihe von repräsentativen Probeentnahmestationen"
     },
     {
       "path": "3-1-2/data.csv",
@@ -464,7 +464,7 @@
           }
         ]
       },
-      "title": "Stadtradeln - Mit Fahrrad gefahrene Kilometer"
+      "title": "Anteil der Geburten unter der Aufsicht von qualifiziertem Gesundheitspersonal"
     },
     {
       "path": "13-3-1/data.csv",
@@ -502,7 +502,7 @@
           }
         ]
       },
-      "title": "CO2-Emissionen aus dem Endenergieverbrauch (Verursacherbilanz)"
+      "title": "Anzahl der Staaten, die die Minderung, Anpassung, Reduzierung der Auswirkungen und Frühwarnsysteme in den primären, sekundären und tertiären Lehrplänen integriert haben"
     },
     {
       "path": "10-2-1/data.csv",
@@ -538,7 +538,7 @@
           }
         ]
       },
-      "title": "Anzahl der angebotenen Fortbildungen innerhalb der Verwaltung"
+      "title": "Anteil der Bevölkerung, die mit weniger als 50% des Medianeinkommens leben, nach Geschlecht, Alter und Menschen mit Behinderung"
     },
     {
       "path": "17-2-1/data.csv",
@@ -562,7 +562,7 @@
           }
         ]
       },
-      "title": "Menge verkaufter Packungen Fairtrade Kaffee 'Treptow-Köpenicker Bohne' pro Jahr"
+      "title": "Öffentliche Nettoentwicklungsausgaben, insgesamt und an am wenigsten entwickelte Länder, als Anteil am Bruttonationaleinkommen (BNE) der Geberländer des Ausschusses für Entwicklungshilfe der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD)"
     },
     {
       "path": "17-3-3/data.csv",
@@ -586,7 +586,7 @@
           }
         ]
       },
-      "title": "Schulpartnerschaften"
+      "title": "global_indicators.17-3-3-title"
     },
     {
       "path": "12-2-1/data.csv",
@@ -610,7 +610,7 @@
           }
         ]
       },
-      "title": "Anzahl der Kirchengemeinden die Teil der Fairtrade Town Kampagne sind"
+      "title": "Rohstoff-Fußabdruck, Rohstoff-Fußabdruck pro Kopf und Rohstoff-Fußabdruck pro BIP"
     },
     {
       "path": "2-3-1/data.csv",
@@ -634,7 +634,7 @@
           }
         ]
       },
-      "title": "Kilogramm gerettete Lebensmittel (Foodsharing)"
+      "title": "Produktionsvolumen je Arbeitskraft nach Unternehmensgrößenklassen der Betriebsgröße in Land-/Weide-/Forstwirtschaft"
     },
     {
       "path": "5-4-1/data.csv",
@@ -658,7 +658,7 @@
           }
         ]
       },
-      "title": "Frauenanteil in den Leitungspositionen des höheren Dienstes"
+      "title": "Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit, nach Geschlecht, Alter und Ort"
     },
     {
       "path": "14-2-1/data.csv",
@@ -694,7 +694,7 @@
           }
         ]
       },
-      "title": "Anzahl der Anwohnerinnen die an der Sprechstunde der Ranger teilnehmen"
+      "title": "Anteil der nationalen ausschließlichen Wirtschaftszonen, die mit ökosystembasierten Ansätzen verwaltet werden"
     },
     {
       "path": "9-1-1/data.csv",
@@ -731,7 +731,7 @@
           }
         ]
       },
-      "title": "Anzahl der Ladestationen für E-Autos"
+      "title": "Anteil der ländlichen Bevölkerung, die im Umkreis von 2 km entfernt an einer ganzjährig befahrbaren Straße lebt"
     },
     {
       "path": "4-2-1/data.csv",
@@ -755,7 +755,7 @@
           }
         ]
       },
-      "title": "Anzahl angebotener Fortbildungen zu 'Bildung für nachhaltige Entwicklung' (BNE) für das pädagogische Personal an Schulen in Treptow-Köpenick"
+      "title": "Anteil der Kinder unter 5 Jahren mit einer altersgemäßen  Entwicklung hinsichtlich Gesundheit, Lernen und psycho-sozialem Wohlbefinden, nach Geschlecht"
     },
     {
       "path": "10-4-1/data.csv",
@@ -791,7 +791,7 @@
           }
         ]
       },
-      "title": "Gini-Koeffizient der Äquivalenzeinkommen in Treptow-Köpenick"
+      "title": "Anteil des Arbeitsnehmerentgelts am BIP, bestehend aus Löhnen, Gehältern und Sozialversicherungsbeiträgen"
     },
     {
       "path": "8-4-1/data.csv",
@@ -815,7 +815,7 @@
           }
         ]
       },
-      "title": "Anzahl der kommunalen Einrichtungen in Treptow-Köpenick die über ein gültiges Testat einer Gemeinwohl-Bilanz verfügen"
+      "title": "Rohstoff-Fußabdruck, Rohstoff-Fußabdruck pro Kopf und Rohstoff-Fußabdruck pro BIP"
     },
     {
       "path": "8-5-1/data.csv",
@@ -852,7 +852,7 @@
           }
         ]
       },
-      "title": "Bruttostundenverdienste und Verdienstunterschiede zwischen Frauen und Männern (Gender Pay Gap unbereinigt)"
+      "title": "Durchschnittlicher Stundenlohn von weiblichen und männlichen Beschäftigten, nach Beruf, Alter und Personen mit Behinderungen"
     },
     {
       "path": "6-1-1/data.csv",
@@ -888,7 +888,7 @@
           }
         ]
       },
-      "title": "Saprobie (organische Belastung) und Trophie (Nährstoffbelastung) des Müggelsee"
+      "title": "Anteil der Bevölkerung mit Zugang zu einer sicheren Trinkwasserversorgung"
     },
     {
       "path": "17-1-1/data.csv",
@@ -935,7 +935,7 @@
           }
         ]
       },
-      "title": "Anzahl der Aktivitäten mit Partnerstädten und Veranstaltungen zum Thema Städtepartnerschaften des Bezirksamts Treptow-Köpenick pro Jahr"
+      "title": "Gesamte Staatseinnahmen als Anteil am BIP, nach Quelle"
     },
     {
       "path": "7-3-2/data.csv",
@@ -959,7 +959,7 @@
           }
         ]
       },
-      "title": "Photovoltaik - Stromeinspeisung im Bezirk"
+      "title": "global_indicators.7-3-2-title"
     },
     {
       "path": "3-1-3/data.csv",
@@ -983,7 +983,7 @@
           }
         ]
       },
-      "title": "Stadtradeln - Kilogramm CO2 eingespart"
+      "title": "global_indicators.3-1-3-title"
     },
     {
       "path": "15-1-1/data.csv",
@@ -1019,7 +1019,7 @@
           }
         ]
       },
-      "title": "Index Kommunale Klimaanpassung"
+      "title": "Waldfläche als Anteil an der gesamten Landfläche"
     },
     {
       "path": "8-3-2/data.csv",
@@ -1055,7 +1055,7 @@
           }
         ]
       },
-      "title": "Anteil der Beschäftigten mit Einwanderungsgeschichte in Führungspositionen der Kommunalverwaltung"
+      "title": "global_indicators.8-3-2-title"
     },
     {
       "path": "17-3-1/data.csv",
@@ -1079,7 +1079,7 @@
           }
         ]
       },
-      "title": "Städtepartnerschaften"
+      "title": "Ausländische Direktinvestitionen, öffentliche Entwicklungszusammenarbeit und Süd-Süd-Kooperationen als Anteil am gesamten Haushaltsbudget"
     },
     {
       "path": "11-3-1/data.csv",
@@ -1103,7 +1103,7 @@
           }
         ]
       },
-      "title": "Anzahl Baumscheibenpatinnen und -paten"
+      "title": "Verhältnis der Flächennutzungs- zur Bevölkerungswachstumsrate"
     },
     {
       "path": "13-2-2/data.csv",
@@ -1140,7 +1140,7 @@
           }
         ]
       },
-      "title": "Anzahl der kostenlos ausleihbaren Lastenräder im Bezirk"
+      "title": "Gesamte Treibhausgasemissionen pro Jahr"
     },
     {
       "path": "7-1-1/data.csv",
@@ -1176,7 +1176,7 @@
           }
         ]
       },
-      "title": "Noch zu definieren"
+      "title": "Anteil der Bevölkerung mit Zugang zu Elektrizität"
     },
     {
       "path": "12-2-2/data.csv",
@@ -1212,7 +1212,7 @@
           }
         ]
       },
-      "title": "Anzahl der Kirchengemeinden mit dem Siegel \"Faire Gemeinde\" im Bezirk"
+      "title": "Inländische Materialverwendung, inländische Materialverwendung pro Kopf und inländische Materialverwendung pro BIP"
     },
     {
       "path": "14-1-1/data.csv",
@@ -1256,7 +1256,7 @@
           }
         ]
       },
-      "title": "Rote Liste Einstufung der in Berliner Gewässern vorkommenden Fischarten"
+      "title": "Index der Eutrophierung der Küsten und Konzentration des schwimmenden Plastikmülls"
     },
     {
       "path": "13-2-1/data.csv",
@@ -1280,7 +1280,7 @@
           }
         ]
       },
-      "title": "Mittlere werktägliche Fahrradverkehrsstärke an der Zählstelle Treptow-Köpenick Kaisersteg"
+      "title": "Anzahl der Staaten, die die Ausarbeitung oder Umsetzung einer/s integrierten Politik/Strategie/Plans verkündet haben, welche/r ihre Fähigkeit zur Anpassung an die negativen Auswirkungen des Klimawandels erhöht und die Widerstandsfähigkeit gegenüber Klimaänderungen als auch eine rückläufige Entwicklung der Treibhausgasemissionen fördert ohne die Nahrungsmittelproduktion zu gefährden (einschließlich eines nationalen Anpassungsplans, national festgelegten Beitrags, nationaler Kommunikation, zweijährlichen Aktualisierungsberichts oder anderer)"
     },
     {
       "path": "16-2-1/data.csv",
@@ -1304,7 +1304,7 @@
           }
         ]
       },
-      "title": "Anzahl der interreligiösen Veranstaltungen pro Jahr"
+      "title": "Anteil der Kinder im Alter von 1-17 Jahren, die im vergangenen Monat eine körperliche Strafe und/oder psychische Aggression durch Betreuungspersonen erfahren haben"
     },
     {
       "path": "16-4-1/data.csv",
@@ -1358,7 +1358,7 @@
           }
         ]
       },
-      "title": "Anzahl der Strukturen der Bürgerbeteiligung und Akteursvernetzung in den Bezirksregionenprofilen"
+      "title": "Gesamtwert der ein- und ausgehenden illegalen Finanzströme (in aktuellen US-Dollar)"
     },
     {
       "path": "1-1-1/data.csv",
@@ -1394,7 +1394,7 @@
           }
         ]
       },
-      "title": "Anzahl der Personen die das Sozialhilfeportal nutzen"
+      "title": "Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
     },
     {
       "path": "17-3-5/data.csv",
@@ -1418,7 +1418,7 @@
           }
         ]
       },
-      "title": "Fairer Handel"
+      "title": "global_indicators.17-3-5-title"
     },
     {
       "path": "2-2-1/data.csv",
@@ -1442,7 +1442,7 @@
           }
         ]
       },
-      "title": "Fair zertifizierte Lebensmittel in der Berliner Schulverpflegung"
+      "title": "Prävalenz von Kleinwuchs (Körpergröße zum Alter < -2 Standardabweichung vom Median des Wachstumsstandards für Kinder der Weltgesundheitsorganisation (WHO)) bei Kindern unter 5 Jahren"
     },
     {
       "path": "12-3-1/data.csv",
@@ -1466,7 +1466,7 @@
           }
         ]
       },
-      "title": "Stand der Zertifizierung der Kommune als Fairtrade Town"
+      "title": "Index zu globalen Nahrungsmittelverlusten"
     },
     {
       "path": "16-3-1/data.csv",
@@ -1510,7 +1510,7 @@
           }
         ]
       },
-      "title": "Anzahl der rassistisch, antisemitisch, homophob und rechtsextrem geprägter Vorfälle pro Jahr in Treptow-Köpenick"
+      "title": "Anteil der Opfer von Gewalttaten in den vergangenen 12 Monaten, die ihre Viktimisierung den zuständigen Behörden oder anderen offiziell anerkannten Stellen der Konfliktaufarbeitung gemeldet haben"
     },
     {
       "path": "9-3-1/data.csv",
@@ -1551,7 +1551,7 @@
           }
         ]
       },
-      "title": "Breitband Verfügbarkeit Mbit/s in %"
+      "title": "Anteil der kleiner Unternehmen an der gesamten Wertschöpfung der Industrie"
     },
     {
       "path": "17-3-4/data.csv",
@@ -1575,7 +1575,7 @@
           }
         ]
       },
-      "title": "Weitere zivilgesellschaftliche Projekte"
+      "title": "global_indicators.17-3-4-title"
     },
     {
       "path": "10-3-1/data.csv",
@@ -1599,7 +1599,7 @@
           }
         ]
       },
-      "title": "Anzahl der Unternehmen in Treptow-Köpenick die eine Gemeinwohl-Bilanz durchführen"
+      "title": "Anteil der Bevölkerung, die angibt sich in den vergangenen 12 Monaten persönlich diskriminiert oder belästigt gefühlt zu haben basierend auf einem Diskriminierungsgrund, der nach internationalem Menschenrechtsgesetzen verboten ist"
     },
     {
       "path": "11-2-3/data.csv",
@@ -1623,7 +1623,7 @@
           }
         ]
       },
-      "title": "Anzahl der Bienenvölker im Bezirk"
+      "title": "global_indicators.11-2-3-title"
     },
     {
       "path": "7-2-1/data.csv",
@@ -1647,7 +1647,7 @@
           }
         ]
       },
-      "title": "Anzahl der Photovoltaikanlagen auf bezirkseigenen Gebäuden"
+      "title": "Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch"
     },
     {
       "path": "6-3-1/data.csv",
@@ -1685,7 +1685,7 @@
           }
         ]
       },
-      "title": "Badegewässerqualität der Badestellen innerhalb des Bezirks Treptow-Köpenick"
+      "title": "Anteil des sicher behandelten Abwassers"
     },
     {
       "path": "4-5-1/data.csv",
@@ -1709,7 +1709,7 @@
           }
         ]
       },
-      "title": "Projektteilnehmer des Projektes \"Umweltschule in Europa - Internationale Nachhaltigkeitsschule\""
+      "title": "Paritäts-Indizes (weiblich/männlich, rural/urban, unterstes/oberstes Vermögensquantil und sonstige, wie z. B. Grad der Behinderung, indigene Bevölkerung und konfliktbetroffen, sobald Daten verfügbar werden) für alle Bildungsindikatoren dieser Liste, die disaggregiert werden können"
     },
     {
       "path": "5-2-1/data.csv",
@@ -1733,7 +1733,7 @@
           }
         ]
       },
-      "title": "Anzahl der angebotenen Schulungen des Bezirksamts zum gendersensiblen Sprachgebrauch"
+      "title": "Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die sich in ihrer jetzigen oder früheren Partnerschaft physischer, sexueller oder psychischer Gewalt durch ihren aktuellen oder früheren Intimpartner in den vergangenen 12 Monaten ausgesetzt waren, nach Art der Gewalt und Alter"
     },
     {
       "path": "7-3-3/data.csv",
@@ -1757,7 +1757,7 @@
           }
         ]
       },
-      "title": "Solarthermie - Summe der Anlagen im Bezirk"
+      "title": "global_indicators.7-3-3-title"
     },
     {
       "path": "13-1-2/data.csv",
@@ -1793,7 +1793,7 @@
           }
         ]
       },
-      "title": "Index Kommunaler Klimaschutz"
+      "title": "Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet und umgesetzt haben"
     },
     {
       "path": "17-6-1/data.csv",
@@ -1829,7 +1829,7 @@
           }
         ]
       },
-      "title": "Öffentliche Ausgaben für Entwicklungszusammenarbeit (Official Development Assistance, ODA)"
+      "title": "Anzahl der Vereinbarungen und Programme über Wissenschafts- und/oder Technologie-Kooperationen zwischen Staaten, nach Art der Kooperation"
     },
     {
       "path": "16-1-1/data.csv",
@@ -1853,7 +1853,7 @@
           }
         ]
       },
-      "title": "Anzahl der partizipativen Veranstaltungen zum Thema SDGs des Bezirksamts Treptow-Köpenick pro Jahr"
+      "title": "Anzahl der Opfern vorsätzlicher Tötung je 100.000 Einwohner, nach Geschlecht und Alter"
     },
     {
       "path": "3-2-1/data.csv",
@@ -1891,7 +1891,7 @@
           }
         ]
       },
-      "title": "Relative Lärmbelastung in Treptow-Köpenick (Umweltgerechtigkeit)"
+      "title": "Sterblichkeitsrate von Kindern unter 5 Jahren"
     },
     {
       "path": "1-2-1/data.csv",
@@ -1928,7 +1928,7 @@
           }
         ]
       },
-      "title": "Anzahl der Repaircafes, Gemeinschaftswerkstätten und ReUse Shops in Treptow-Köpenick"
+      "title": "Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
     },
     {
       "path": "17-4-1/data.csv",
@@ -1967,7 +1967,7 @@
           }
         ]
       },
-      "title": "Eine-Welt-Projekte und Partnerschaften im Bezirk Treptow-Köpenick"
+      "title": "Schuldendienst als Anteil an Güter- und Dienstleistungsexporten"
     },
     {
       "path": "11-1-1/data.csv",
@@ -2004,7 +2004,7 @@
           }
         ]
       },
-      "title": "Anzahl der kostenlos ausleihbaren Lastenräder im Bezirk"
+      "title": "Anteil der urbanen Bevölkerung, die in Slums, informellen Siedlungen oder unzureichenden Behausungen lebt"
     },
     {
       "path": "8-1-1/data.csv",
@@ -2028,7 +2028,7 @@
           }
         ]
       },
-      "title": "Anzahl der Unternehmen in Treptow-Köpenick die über ein gültiges Testat einer Gemeinwohl-Bilanz verfügen"
+      "title": "Jährliche Wachstumsrate des realen BIP pro Kopf"
     },
     {
       "path": "2-1-1/data.csv",
@@ -2093,7 +2093,7 @@
           }
         ]
       },
-      "title": "Öffentlich zugängliche Obstbäume und Beete"
+      "title": "Prävalenz von Unterernährung"
     },
     {
       "path": "12-1-1/data.csv",
@@ -2117,7 +2117,7 @@
           }
         ]
       },
-      "title": "Anzahl der Fortbildungen zu nachhaltiger und fairer Beschaffung pro Jahr"
+      "title": "Anzahl der Staaten mit nationalen Aktionsplänen zu nachhaltigem Konsum und Produktion (SCP) oder SCP, die als Priorität oder Ziel in nationale Politik aufgenommen wurden"
     },
     {
       "path": "3-3-2/data.csv",
@@ -2154,7 +2154,7 @@
           }
         ]
       },
-      "title": "Grenzwertüberschreitungen Luftverschmutzung in Treptow-Köpenick"
+      "title": "Tuberkulose-Inzidenz je 100.000 Einwohner"
     },
     {
       "path": "4-4-1/data.csv",
@@ -2178,7 +2178,7 @@
           }
         ]
       },
-      "title": "Noch zu definieren"
+      "title": "Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
     },
     {
       "path": "11-1-2/data.csv",
@@ -2202,7 +2202,7 @@
           }
         ]
       },
-      "title": "Anzahl der Ausleihen von Lastenrädern"
+      "title": "global_indicators.11-1-2-title"
     },
     {
       "path": "8-2-2/data.csv",
@@ -2238,7 +2238,7 @@
           }
         ]
       },
-      "title": "Anteil der Bewerber*innen mit Einwanderungsgeschichte"
+      "title": "global_indicators.8-2-2-title"
     },
     {
       "path": "3-3-1/data.csv",
@@ -2275,7 +2275,7 @@
           }
         ]
       },
-      "title": "Relative Luftbelastung in Treptow-Köpenick (Umweltgerechtigkeit)"
+      "title": "Anzahl der HIV-Neuinfektionen je 1.000 nicht infizierter Einwohner, nach Geschlecht, Alter und Risikogruppen"
     },
     {
       "path": "11-5-1/data.csv",
@@ -2313,7 +2313,7 @@
           }
         ]
       },
-      "title": "Sport-, Freizeit- und Erholungsfläche in Treptow-Köpenick"
+      "title": "Anzahl der infolge von Katastrophen getöteten, vermissten und direkt betroffenen Personen, je 100.000 Einwohner"
     },
     {
       "path": "8-2-1/data.csv",
@@ -2349,7 +2349,7 @@
           }
         ]
       },
-      "title": "Anzahl der Teilnehmenden am Mentoringprogramm"
+      "title": "Jährliche Wachstumsrate des realen BIP je Beschäftigten"
     },
     {
       "path": "13-1-1/data.csv",
@@ -2373,7 +2373,7 @@
           }
         ]
       },
-      "title": "Stellenanteile für das Klimaschutzmanagement"
+      "title": "Anzahl der infolge von Katastrophen getöteten, vermissten und direkt betroffenen Personen, je 100.000 Einwohner"
     },
     {
       "path": "12-4-1/data.csv",
@@ -2410,7 +2410,7 @@
           }
         ]
       },
-      "title": "Anzahl der Fairtrade Schulen in Treptow-Köpenick"
+      "title": "Anzahl der Vertragsparteien internationaler multilateraler Umweltabkommen über gefährliche Abfälle und andere Chemikalien, die ihren Bekenntnissen und Verpflichtungen nachkommen, indem sie die gemäß dem jeweiligen Übereinkommen geforderten Informationen übermitteln"
     },
     {
       "path": "5-3-1/data.csv",
@@ -2434,7 +2434,7 @@
           }
         ]
       },
-      "title": "Anzahl der Projekte, Anlaufpunkte und Beratungsangebote für Mädchen und junge Frauen in Treptow-Köpenick"
+      "title": "Anteil der 20- bis 24-jährigen Frauen, die vor einem Alter von 15 oder 18 Jahren verheiratet oder in einer vergleichbaren Verbindung waren"
     },
     {
       "path": "4-1-1/data.csv",
@@ -2458,7 +2458,7 @@
           }
         ]
       },
-      "title": "Anzahl der Schulen in Treptow-Köpenick die pro Jahr an der Lernkonferenz teilnehmen"
+      "title": "Anteil der Kinder und Jugendlichen, die (a) in Klasse 2/3 (b) am Ende der Grundschule und (c) am Ende der Sekundarstufe I ein Mindestleistungsniveau in (i) Lesen und (ii) Mathematik erreichen, nach Geschlecht"
     },
     {
       "path": "1-3-1/data.csv",
@@ -2482,7 +2482,7 @@
           }
         ]
       },
-      "title": "Armutsgefährdungsquote in Treptow-Köpenick"
+      "title": "Anteil der Bevölkerung, die durch soziale Sicherungssysteme abgesichert sind, nach Geschlecht, untergliedert nach Kindern, Arbeitslosen, älteren Personen, Menschen mit Behinderungen, Schwangeren, Neugeborenen, Opfern von Arbeitsunfällen sowie Armen und Schwachen"
     },
     {
       "path": "9-1-2/data.csv",
@@ -2506,7 +2506,7 @@
           }
         ]
       },
-      "title": "Stromverbrauch an Elektro-Ladesäulen"
+      "title": "Passagiere und Frachtvolumen, nach der Art des Transports"
     },
     {
       "path": "11-4-1/data.csv",
@@ -2557,7 +2557,7 @@
           }
         ]
       },
-      "title": "Häufigkeit der auf Wegen genutzten Verkehrsmittel in Treptow-Köpenick"
+      "title": "Gesamtausgaben (öffentlich und privat) pro Kopf für die Bewahrung, den Schutz und die Erhaltung des Kultur- und Naturerbes, nach Art des Erbes (Kultur, Natur, gemischt und durch das Welterbezentrum ernannt), Regierungsebene (national, regional und lokal/kommunal), Art der Ausgabe (Betriebsausgabe/Investition) und Art der privaten Finanzierung (Sachspenden, privater gemeinnütziger Sektor und Förderer)"
     },
     {
       "path": "15-4-1/data.csv",
@@ -2593,7 +2593,7 @@
           }
         ]
       },
-      "title": "Noch zu definieren"
+      "title": "Abdeckung der wichtigen Gebiete für Biodiversität in den Bergen durch Schutzgebiete"
     },
     {
       "path": "5-1-1/data.csv",
@@ -2629,7 +2629,7 @@
           }
         ]
       },
-      "title": "Anzahl der Schulen in die am Projekttag teilnehmen"
+      "title": "Existenz gesetzlicher Rahmenbedingungen, die Gleichstellung und Nicht-Diskriminierung aufgrund des Geschlechts fördern, durchsetzen und überwachen"
     },
     {
       "path": "10-1-1/data.csv",
@@ -2665,7 +2665,7 @@
           }
         ]
       },
-      "title": "Anteil mehrsprachiger Informationsmaterialien"
+      "title": "Wachstumsraten der Haushaltsausgaben oder -einkommen pro Kopf der unteren 40 Prozent der Bevölkerung und der Gesamtbevölkerung"
     },
     {
       "path": "11-2-1/data.csv",
@@ -2730,7 +2730,7 @@
           }
         ]
       },
-      "title": "Anzahl der Abholstellen für Produkte Solidarischer Landwirtschaft (SoLaWi)"
+      "title": "Anteil der Bevölkerung, der einen angemessenen Zugang zu öffentlichen Verkehrsmitteln hat, nach Geschlecht, Alter und Menschen mit Behinderung"
     },
     {
       "path": "9-2-1/data.csv",
@@ -2766,7 +2766,7 @@
           }
         ]
       },
-      "title": "Anzahl öffentlicher Einrichtungen mit freiem WLAN Zugang"
+      "title": "Wertschöpfung des Verarbeitenden Gewerbes als Anteil am BIP und pro Kopf"
     },
     {
       "path": "17-3-2/data.csv",
@@ -2790,7 +2790,7 @@
           }
         ]
       },
-      "title": "Gemeindeprojekte und -partnerschaften"
+      "title": "Volumen der (Rück-)Überweisungen (in US-Dollar) als Anteil am gesamten BIP"
     }
   ]
 }

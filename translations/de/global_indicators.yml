@@ -1,20 +1,33 @@
-1-1-1-title: Anzahl der Personen die das Sozialhilfeportal nutzen
-1-2-1-title: Anzahl der Repaircafes, Gemeinschaftswerkstätten und ReUse Shops in Treptow-Köpenick
-1-3-1-title: Armutsgefährdungsquote in Treptow-Köpenick
-2-1-1-title: Öffentlich zugängliche Obstbäume und Beete
-2-2-1-title: Fair zertifizierte Lebensmittel in der Berliner Schulverpflegung
-2-3-1-title: Kilogramm gerettete Lebensmittel (Foodsharing)
-3-1-1-title: Stadtradeln - Anzahl der Personen die teilnehmen
-3-1-2-title: Stadtradeln - Mit Fahrrad gefahrene Kilometer
-3-1-3-title: Stadtradeln - Kilogramm CO2 eingespart
-3-2-1-title: Relative Lärmbelastung in Treptow-Köpenick (Umweltgerechtigkeit)
-3-3-1-title: Relative Luftbelastung in Treptow-Köpenick (Umweltgerechtigkeit)
-3-3-2-title: Grenzwertüberschreitungen Luftverschmutzung in Treptow-Köpenick
-4-1-1-title: Anzahl der Schulen in Treptow-Köpenick die pro Jahr an der Lernkonferenz teilnehmen
-4-2-1-title: Anzahl angebotener Fortbildungen zu 'Bildung für nachhaltige Entwicklung' (BNE) für das pädagogische Personal an Schulen in Treptow-Köpenick
-4-3-1-title: Anzahl der Volkshochschul (VHS) Kurse zum Themenbereich Globales lernen, 'Bildung für nachhaltige Entwicklung' (BNE) und SDGs
-4-4-1-title: Noch zu definieren
-4-5-1-title: Projektteilnehmer des Projektes "Umweltschule in Europa - Internationale Nachhaltigkeitsschule"
+1-1-1-title: ArmutSGB-II / SGB-XII-Quote
+1-2-1-title: Armut bei Kindern (< 15 Jahre; Bedarfsgemeinschaften)
+1-2-2-title: Armut bei Jugendlichen (15 – 17 Jahre; Bedarfsgemeinschaften)
+1-2-3-title: Armut bei Älteren (> 65 Jahre)
+1-3-1-title: [x]Armutsgefährdungsquote in Treptow-Köpenick
+2-1-1-title: Kinder mit Fehlernährung
+2-2-1-title: Ökologische Landwirtschaft
+2-3-1-title: Stickstoffüberschuss
+3-1-1-title: Wohnungsnahe Grundversorgung - Hausarzt
+3-1-2-title: [x]Stadtradeln - Mit Fahrrad gefahrene Kilometer
+3-1-3-title: [x]Stadtradeln - Kilogramm CO2 eingespart
+3-2-1-title: Krankenhausversorgung
+3-3-1-title: Krankenhausbetten in der Psychiatrie
+3-3-2-title: [x]Grenzwertüberschreitungen Luftverschmutzung in Treptow-Köpenick
+3-4-1-title: Vorzeitige Sterblichkeit
+3-5-1-title: Alkoholbedingte Krankenhausaufenthalte von Jugendlichen
+3-6-1-title: Selbsttötung und Selbstschädigung mit Todesfolge
+3-7-1-title: Plätze in Pflegeheimen
+3-8-1-title: Personal in Pflegeheimen
+3-9-1-title: Personal in Pflegediensten
+3-10-1-title: Masern-Infektionen
+3-11-1-title: Luftqualität
+4-1-1-title: Betreuungsquote von Kleinkindern (unter 3-Jährige)
+4-2-1-title: Betreuungsquote von Kindern (3- bis 6-Jährige)
+4-3-1-title: Schulabbrecherquote
+4-4-1-title: Schulabschluss
+4-5-1-title: Auszubildende
+4-6-1-title: Kooperationsquote
+4-7-1-title: Vermittlungsquote (erster Arbeitsmarkt)
+4-8-1-title: Exklusionsquote
 5-1-1-title: Anzahl der Schulen in die am Projekttag teilnehmen
 5-2-1-title: Anzahl der angebotenen Schulungen des Bezirksamts zum gendersensiblen Sprachgebrauch
 5-3-1-title: Anzahl der Projekte, Anlaufpunkte und Beratungsangebote für Mädchen und junge Frauen in Treptow-Köpenick

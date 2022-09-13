@@ -2,16 +2,12 @@
 1-2-1-title: Armut bei Kindern (< 15 Jahre; Bedarfsgemeinschaften)
 1-2-2-title: Armut bei Jugendlichen (15 – 17 Jahre; Bedarfsgemeinschaften)
 1-2-3-title: Armut bei Älteren (> 65 Jahre)
-1-3-1-title: [x]Armutsgefährdungsquote in Treptow-Köpenick
 2-1-1-title: Kinder mit Fehlernährung
 2-2-1-title: Ökologische Landwirtschaft
 2-3-1-title: Stickstoffüberschuss
 3-1-1-title: Wohnungsnahe Grundversorgung - Hausarzt
-3-1-2-title: [x]Stadtradeln - Mit Fahrrad gefahrene Kilometer
-3-1-3-title: [x]Stadtradeln - Kilogramm CO2 eingespart
 3-2-1-title: Krankenhausversorgung
 3-3-1-title: Krankenhausbetten in der Psychiatrie
-3-3-2-title: [x]Grenzwertüberschreitungen Luftverschmutzung in Treptow-Köpenick
 3-4-1-title: Vorzeitige Sterblichkeit
 3-5-1-title: Alkoholbedingte Krankenhausaufenthalte von Jugendlichen
 3-6-1-title: Selbsttötung und Selbstschädigung mit Todesfolge
@@ -31,22 +27,13 @@
 5-1-1-title: Vollzeitbeschäftigungsquoten von Frauen und Männern
 5-1-2-title: Anteil der teilzeitbeschäftigten Frauen
 5-2-1-title: Relative Frauenarmut
-5-3-1-title: [x]Anzahl der Projekte, Anlaufpunkte und Beratungsangebote für Mädchen und junge Frauen in Treptow-Köpenick
-5-4-1-title: [x]Frauenanteil in den Leitungspositionen des höheren Dienstes
-5-5-1-title: [x]Frauenanteil in der Bezirksverordnetenversammlung (BVV) Treptow-Köpenicks
 6-1-1-title: Ausweisung von Wasserschutzgebieten
-6-2-1-title: [x]Anzahl außerschulischer Einrichtungen der Natur- und Umweltbildung / Bildung für Nachhaltige Entwicklung (BNE)
-6-2-2-title: [x]Anzahl der Bildungsangebote des Netzwerks / der Koordinierungsstelle Umweltbildung und Bildung für nachhaltige Entwicklung (BNE)
-6-3-1-title: [x]Badegewässerqualität der Badestellen innerhalb des Bezirks Treptow-Köpenick
 7-1-1-title: Endenergieverbrauch LRA
 7-1-2-title: Endenergieverbrauch Enzkreis (gesamt)
 7-1-3-title: Jährliche Einsparung/ Absenkpfad
 7-2-1-title: Erneuerbare Energien – Anteil am Endenergieverbrauch
 7-2-2-title: Erneuerbare Energien – Zubaurate (Enzkreis)
 7-2-3-title: Erneuerbare Energien – Installierte Leistung (Enzkreis)
-7-3-1-title: [x]Photovoltaik - Summe der Anlagen im Bezirk 
-7-3-2-title: [x]Photovoltaik - Stromeinspeisung im Bezirk
-7-3-3-title: [x]Solarthermie - Summe der Anlagen im Bezirk
 8-1-1-title: Bruttoinlandsprodukt
 8-2-1-title: Arbeitssuchende (gesamt)
 8-2-2-title: Arbeitssuchende Frauen
@@ -58,7 +45,6 @@
 8-4-1-title: Beschäftigungsquote
 8-5-1-title: Erwerbsaufstocker
 9-1-1-title: Existenzgründungen
-9-1-2-title: [x]Stromverbrauch an Elektro-Ladesäulen
 9-2-1-title: Innovationsindex
 9-3-1-title: Hochqualifizierte
 10-1-1-title: Einkommensverteilung - Haushalte mit niedrigem Einkommen
@@ -69,15 +55,10 @@
 10-4-1-title: Relative Schulabbrecherquote von AusländerInnen
 10-5-1-title: Einbürgerungen
 11-1-1-title: Mietpreise
-11-1-2-title: [x]Anzahl der Ausleihen von Lastenrädern
 11-2-1-title: Flächenremanenz
-11-2-2-title: [x]Anzahl der Imker im Bezirk
-11-2-3-title: [x]Anzahl der Bienenvölker im Bezirk
 11-3-1-title: Wohnfläche
-11-3-2-title: [x]Finanzierungen für Projekte aus Kiezkassen 
 11-4-1-title: Modal Split
 11-5-1-title: Kfz-Dichte
-11-5-2-title: [x]Versorgung mit öffentlichen Grünflächen insgesamt
 11-6-1-title: Verunglückte im Straßenverkehr
 11-7-1-title: Flächeninanspruchnahme: Anteil Siedlungs- und Verkehrsfläche
 11-7-2-title: Flächeninanspruchnahme: Zuwachs gegenüber Vorjahr
@@ -86,7 +67,6 @@
 12-1-1-title: Trinkwasserabgabe – Verbrauch (Haushalte und Kleingewerbe)
 12-1-2-title: Trinkwasserabgabe – Leitungsverluste
 12-2-1-title: Abfallmenge
-12-2-2-title: [x]Anzahl der Kirchengemeinden mit dem Siegel "Faire Gemeinde" im Bezirk
 12-3-1-title: Unterstützer der WIN-Charta des Landes Baden-Württemberg
 12-4-1-title: Anteil von Recyclingpapier in der Verwaltung
 12-5-1-title: Fairtrade-Towns im Landkreis
@@ -96,11 +76,7 @@
 13-1-4-title: Treibhausgas-Emissionen - Erreichen der Klimaziele
 13-2-1-title: Platzierung im European Energy Award – Ergebnis %
 13-2-2-title: Platzierung im European Energy Award – Vergleich BW, Bund
-13-2-3-title: [x]Kilometer Radschnellwege im Bezirk
-13-3-1-title: [x]CO2-Emissionen aus dem Endenergieverbrauch (Verursacherbilanz)
 14-1-1-title: Abwasserbehandlung in Kläranlagen
-14-2-1-title: [x]Anzahl der Anwohnerinnen die an der Sprechstunde der Ranger teilnehmen
-14-3-1-title: [x]Noch zu definieren
 15-1-1-title: Naturschutzflächen
 15-2-1-title: Altlasten mit Handlungsbedarf (Flächenanzahl)
 15-3-1-title: Landschaftsqualität (Hemerobie-Index)
@@ -109,15 +85,6 @@
 16-1-1-title: Straftaten
 16-2-1-title: Gesamtverschuldung
 16-3-1-title: Wahlbeteiligung bei Kommunalwahlen
-16-4-1-title: [x]Anzahl der Strukturen der Bürgerbeteiligung und Akteursvernetzung in den Bezirksregionenprofilen
 17-1-1-title: Kommunale Partnerschaften (Aufgewendete Mittel)
 17-1-2-title: Kommunale Partnerschaften (Anteil Fördermittel)
 17-2-1-title: Entwicklungspolitische Projekte
-17-3-1-title: [x]Städtepartnerschaften
-17-3-2-title: [x]Gemeindeprojekte und -partnerschaften
-17-3-3-title: [x]Schulpartnerschaften
-17-3-4-title: [x]Weitere zivilgesellschaftliche Projekte
-17-3-5-title: [x]Fairer Handel
-17-4-1-title: [x]Eine-Welt-Projekte und Partnerschaften im Bezirk Treptow-Köpenick
-17-5-1-title: [x]Noch zu definieren
-17-6-1-title: [x]Öffentliche Ausgaben für Entwicklungszusammenarbeit (Official Development Assistance, ODA) 

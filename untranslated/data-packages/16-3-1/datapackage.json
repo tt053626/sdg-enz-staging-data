@@ -15,27 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "data.incident",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.tot",
-                "data.wahlk",
-                "data.ableism",
-                "data.sozch",
-                "data.qhostility",
-                "data.antisem",
-                "data.rightwing",
-                "data.polgeg",
-                "data.trivil",
-                "data.racism",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

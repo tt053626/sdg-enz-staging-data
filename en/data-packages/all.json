@@ -199,42 +199,6 @@
       "title": "Number of participations of the district in meetings and events of the biodiversity network per year"
     },
     {
-      "path": "17-5-1/data.csv",
-      "name": "17-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "To be defined"
-    },
-    {
       "path": "15-3-1/data.csv",
       "name": "15-3-1",
       "profile": "tabular-data-resource",
@@ -563,30 +527,6 @@
         ]
       },
       "title": "Quantity of fair trade coffee packages sold (Treptow-Köpenicker Bohne)"
-    },
-    {
-      "path": "17-3-3/data.csv",
-      "name": "17-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "School partnerships"
     },
     {
       "path": "12-2-1/data.csv",
@@ -1058,30 +998,6 @@
       "title": "Proportion of employees with immigration history in management positions in the local administration"
     },
     {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "City partnerships"
-    },
-    {
       "path": "11-3-1/data.csv",
       "name": "11-3-1",
       "profile": "tabular-data-resource",
@@ -1397,30 +1313,6 @@
       "title": "1-1-1"
     },
     {
-      "path": "17-3-5/data.csv",
-      "name": "17-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Fair trade"
-    },
-    {
       "path": "2-2-1/data.csv",
       "name": "2-2-1",
       "profile": "tabular-data-resource",
@@ -1532,30 +1424,6 @@
         ]
       },
       "title": "Broadband availability Mbit/s in %."
-    },
-    {
-      "path": "17-3-4/data.csv",
-      "name": "17-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Other civil society projects"
     },
     {
       "path": "10-3-1/data.csv",
@@ -1776,42 +1644,6 @@
       "title": "Municipal Climate Protection Index"
     },
     {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Public spending on development cooperation (Official Development Assistance, ODA)"
-    },
-    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -1909,45 +1741,6 @@
         ]
       },
       "title": "Number of repair cafes, community workshops and ReUse shops in Treptow-Köpenick"
-    },
-    {
-      "path": "17-4-1/data.csv",
-      "name": "17-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.einewelt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Parish projects",
-                "School partnerships",
-                "City partnerships",
-                "Fair Trade Shops",
-                "Civil society projects"
-              ]
-            },
-            "title": "One-World-Projects"
-          }
-        ]
-      },
-      "title": "One world projects and partnerships in the Treptow-Köpenick district"
     },
     {
       "path": "11-1-1/data.csv",
@@ -2747,30 +2540,6 @@
         ]
       },
       "title": "Number of public facilities with free WLAN access"
-    },
-    {
-      "path": "17-3-2/data.csv",
-      "name": "17-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Community projects and partnerships"
     },
     {
       "path": "1-2-3/data.csv",

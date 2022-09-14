@@ -199,42 +199,6 @@
       "title": "Altlasten mit Handlungsbedarf (Flächenanzahl)"
     },
     {
-      "path": "17-5-1/data.csv",
-      "name": "17-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(Leer)"
-    },
-    {
       "path": "15-3-1/data.csv",
       "name": "15-3-1",
       "profile": "tabular-data-resource",
@@ -563,30 +527,6 @@
         ]
       },
       "title": "Entwicklungspolitische Projekte"
-    },
-    {
-      "path": "17-3-3/data.csv",
-      "name": "17-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(Leer)"
     },
     {
       "path": "12-2-1/data.csv",
@@ -1058,30 +998,6 @@
       "title": "Frauenlangzeitarbeitslosigkeit"
     },
     {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(Leer)"
-    },
-    {
       "path": "11-3-1/data.csv",
       "name": "11-3-1",
       "profile": "tabular-data-resource",
@@ -1397,30 +1313,6 @@
       "title": "1-1-1"
     },
     {
-      "path": "17-3-5/data.csv",
-      "name": "17-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(Leer)"
-    },
-    {
       "path": "2-2-1/data.csv",
       "name": "2-2-1",
       "profile": "tabular-data-resource",
@@ -1532,30 +1424,6 @@
         ]
       },
       "title": "Hochqualifizierte"
-    },
-    {
-      "path": "17-3-4/data.csv",
-      "name": "17-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(Leer)"
     },
     {
       "path": "10-3-1/data.csv",
@@ -1776,42 +1644,6 @@
       "title": "Treibhausgas-Emissionen – Enzkreis gesamt"
     },
     {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(Leer)"
-    },
-    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -1909,45 +1741,6 @@
         ]
       },
       "title": "Armut bei Kindern (< 15 Jahre; Bedarfsgemeinschaften)"
-    },
-    {
-      "path": "17-4-1/data.csv",
-      "name": "17-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "euc_kr",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "data.einewelt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Städtepartnerschaften",
-                "Gemeindeprojekte",
-                "Schulpartnerschaften",
-                "Zivilgesellschaftliche Projekte",
-                "Weltläden",
-                ""
-              ]
-            },
-            "title": "Eine-Welt-Projekte"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(Leer)"
     },
     {
       "path": "11-1-1/data.csv",
@@ -2747,30 +2540,6 @@
         ]
       },
       "title": "Innovationsindex"
-    },
-    {
-      "path": "17-3-2/data.csv",
-      "name": "17-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(Leer)"
     },
     {
       "path": "1-2-3/data.csv",

@@ -12,42 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Grade",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Planet",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mercury",
-                "Venus",
-                "Earth",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Fruit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Apples",
-                "Oranges",
-                "Lemons",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

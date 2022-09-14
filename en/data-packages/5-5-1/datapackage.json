@@ -12,26 +12,13 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "data.sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Men",
-                "Total",
-                "Women"
-              ]
-            },
-            "title": "Sex"
           }
         ]
       }
@@ -39,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-1",
-  "title": "Proportion of women in the Treptow-Köpenick district assembly (BVV)"
+  "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
 }

@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1",
-  "title": "Number of extracurricular institutions for nature and environmental education / education for sustainable development (ESD)"
+  "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
 }

@@ -12,24 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "Status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Siegel Faire Gemeinde",
-                "Kein Siegel",
-                ""
-              ]
-            },
-            "title": "Status"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-2-2",
-  "title": "(Leer)"
+  "title": "Inländische Materialverwendung, inländische Materialverwendung pro Kopf und inländische Materialverwendung pro BIP"
 }

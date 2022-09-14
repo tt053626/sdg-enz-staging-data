@@ -12,27 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "data.pow",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "<30 kW",
-                ">30 - 40 kW",
-                ">40 - 100 kW",
-                ">100 - 750 kW",
-                ">750 kW",
-                ""
-              ]
-            },
-            "title": "Leistungsklasse"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -41,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-3-1",
-  "title": "(Leer)"
+  "title": "Energieintensität gemessen als Primärenergie zum BIP"
 }

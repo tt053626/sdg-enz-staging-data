@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-2-2",
-  "title": "Number of beekeepers in the district"
+  "title": "global_indicators.11-2-2-title"
 }

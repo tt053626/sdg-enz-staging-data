@@ -17,22 +17,8 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "data.esek",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Manufacturing sector",
-                "Households, business, trade and services, other consumers",
-                "Total",
-                "Transportation"
-              ]
-            },
-            "title": "Emitting sectors"
           }
         ]
       }
@@ -40,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "13-3-1",
-  "title": "CO2 emissions from final energy consumption (polluter balance)"
+  "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
 }

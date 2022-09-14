@@ -12,27 +12,13 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "data.kat",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Excellent",
-                "Sufficient",
-                "Good",
-                "Poor"
-              ]
-            },
-            "title": "Category"
           }
         ]
       }
@@ -40,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-3-1",
-  "title": "Bathing water quality of the bathing sites within the district Treptow-Köpenick"
+  "title": "Proportion of domestic and industrial wastewater flows safely treated"
 }

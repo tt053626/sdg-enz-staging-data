@@ -12,22 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "data.esek",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gesamt",
-                "Verarbeitendes Gewerbe",
-                "Verkehr",
-                "Haushalte, Gewerbe, Handel und Dienstleistungen, übrige Verbraucher",
-                ""
-              ]
-            },
-            "title": "Emittentensektoren"
           },
           {
             "name": "Value",
@@ -40,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "13-3-1",
-  "title": "(Leer)"
+  "title": "Anzahl der Staaten, die die Minderung, Anpassung, Reduzierung der Auswirkungen und Frühwarnsysteme in den primären, sekundären und tertiären Lehrplänen integriert haben"
 }

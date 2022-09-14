@@ -12,27 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "data.gruen",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Grün- und Erholungsanlagen (inkl. Spielplätze)",
-                "Kleingärten",
-                "Friedhöfe",
-                "Straßengrün",
-                "Summe öffentliche Grünflächen",
-                ""
-              ]
-            },
-            "title": "Öffentliche Grünflächen"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -41,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-5-2",
-  "title": "(Leer)"
+  "title": "Unmittelbarer wirtschaftlicher Schaden im Verhältnis zum globalen BIP, Schäden kritischer Infrastruktur und Anzahl der Ausfälle von Grundversorgungsleistungen infolge von Katastrophen"
 }

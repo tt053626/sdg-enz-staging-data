@@ -12,28 +12,13 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "data.gruen",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Green and recreational facilities (incl. playgrounds)",
-                "Cemeteries",
-                "Allotment gardens",
-                "Street green",
-                "Total public green spaces"
-              ]
-            },
-            "title": "Public green spaces"
           }
         ]
       }
@@ -41,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-5-2",
-  "title": "Total supply of public green spaces"
+  "title": "Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters"
 }

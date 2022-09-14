@@ -17,7 +17,7 @@
           },
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-3-2",
-  "title": "Photovoltaics - Electricity supply in the district"
+  "title": "global_indicators.7-3-2-title"
 }

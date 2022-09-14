@@ -21,67 +21,69 @@
 4-3-1-title: Schulabbrecherquote
 4-4-1-title: Schulabschluss
 4-5-1-title: Auszubildende
+4-6-1-title: Kooperationsquote
+4-7-1-title: Vermittlungsquote (erster Arbeitsmarkt)
+4-8-1-title: Exklusionsquote
 5-1-1-title: Vollzeitbeschäftigungsquoten von Frauen und Männern
 5-2-1-title: Relative Frauenarmut
-5-3-1-title: (Leer)
-5-4-1-title: (Leer)
-5-5-1-title: (Leer)
 6-1-1-title: Ausweisung von Wasserschutzgebieten
-6-2-1-title: (Leer)
-6-2-2-title: (Leer)
-6-3-1-title: 
 7-1-1-title: Endenergieverbrauch LRA
+7-1-2-title: Endenergieverbrauch Enzkreis (gesamt)
+7-1-3-title: Jährliche Einsparung/ Absenkpfad
 7-2-1-title: Erneuerbare Energien – Anteil am Endenergieverbrauch
 7-2-2-title: Erneuerbare Energien – Zubaurate (Enzkreis)
-7-3-1-title: (Leer)
-7-3-2-title: (Leer)
-7-3-3-title: (Leer)
+7-2-3-title: Erneuerbare Energien – Installierte Leistung (Enzkreis)
 8-1-1-title: Bruttoinlandsprodukt
 8-2-1-title: Arbeitssuchende (gesamt)
 8-2-2-title: Arbeitssuchende Frauen
+8-2-3-title: Jugendarbeitslosigkeit (15- bis 25-Jährige)
+8-2-4-title: Arbeitslosigkeit bei über 55-Jährigen
 8-3-1-title: Langzeitarbeitslose (gesamt)
 8-3-2-title: Frauenlangzeitarbeitslosigkeit
+8-3-3-title: Männerlangzeitarbeitslosigkeit
 8-4-1-title: Beschäftigungsquote
 8-5-1-title: Erwerbsaufstocker
 9-1-1-title: Existenzgründungen
-9-1-2-title: (Leer)
 9-2-1-title: Innovationsindex
 9-3-1-title: Hochqualifizierte
 10-1-1-title: Einkommensverteilung - Haushalte mit niedrigem Einkommen
+10-1-2-title: Einkommensverteilung - Haushalte mit mittlerem Einkommen
+10-1-3-title: Einkommensverteilung - Haushalte mit hohem Einkommen
 10-2-1-title: Relative Beschäftigungsquote von AusländerInnen
 10-3-1-title: Relative Armutsquote bei AusländerInnen
 10-4-1-title: Relative Schulabbrecherquote von AusländerInnen
+10-5-1-title: Einbürgerungen
 11-1-1-title: Mietpreise
-11-1-2-title: (Leer)
 11-2-1-title: Flächenremanenz
-11-2-2-title: (Leer)
-11-2-3-title: (Leer)
 11-3-1-title: Wohnfläche
-11-3-2-title: (Leer)
 11-4-1-title: Modal Split
 11-5-1-title: Kfz-Dichte
-11-5-2-title: (Leer)
+11-6-1-title: Verunglückte im Straßenverkehr
+11-7-1-title: Flächeninanspruchnahme - Anteil Siedlungs- und Verkehrsfläche
+11-7-2-title: Flächeninanspruchnahme - Zuwachs gegenüber Vorjahr
+11-7-3-title: Flächeninanspruchnahme - Nutzungsintensität je EinwohnerInnen
+11-8-1-title: Naherholungsfläche
 12-1-1-title: Trinkwasserabgabe – Verbrauch (Haushalte und Kleingewerbe)
+12-1-2-title: Trinkwasserabgabe – Leitungsverluste
 12-2-1-title: Abfallmenge
-12-2-2-title: (Leer)
 12-3-1-title: Unterstützer der WIN-Charta des Landes Baden-Württemberg
 12-4-1-title: Anteil von Recyclingpapier in der Verwaltung
+12-5-1-title: Fairtrade-Towns im Landkreis
 13-1-1-title: Treibhausgas-Emissionen – Landratsamt
 13-1-2-title: Treibhausgas-Emissionen – Enzkreis gesamt
+13-1-3-title: Treibhausgas-Emissionen – jährliche Einsparung
+13-1-4-title: Treibhausgas-Emissionen - Erreichen der Klimaziele
 13-2-1-title: Platzierung im European Energy Award – Ergebnis %
 13-2-2-title: Platzierung im European Energy Award – Vergleich BW, Bund
-13-2-3-title: (Leer)
-13-3-1-title: (Leer)
 14-1-1-title: Abwasserbehandlung in Kläranlagen
-14-2-1-title: (Leer)
-14-3-1-title: (Leer)
 15-1-1-title: Naturschutzflächen
 15-2-1-title: Altlasten mit Handlungsbedarf (Flächenanzahl)
 15-3-1-title: Landschaftsqualität (Hemerobie-Index)
 15-4-1-title: Unzerschnittene Freiraumflächen > 50 km2
+15-5-1-title: Streuobstwiesenfläche
 16-1-1-title: Straftaten
 16-2-1-title: Gesamtverschuldung
 16-3-1-title: Wahlbeteiligung bei Kommunalwahlen
-16-4-1-title: (Leer)
 17-1-1-title: Kommunale Partnerschaften (Aufgewendete Mittel)
+17-1-2-title: Kommunale Partnerschaften (Anteil Fördermittel)
 17-2-1-title: Entwicklungspolitische Projekte

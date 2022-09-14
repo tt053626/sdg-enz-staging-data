@@ -12,13 +12,27 @@
         "fields": [
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Sports, leisure and recreation area",
+                "Industrial and commercial area",
+                "Settlement area",
+                "Residential area"
+              ]
+            },
+            "title": "Area"
           }
         ]
       }

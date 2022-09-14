@@ -1,90 +1,89 @@
-1-1-1-title: Eng - ArmutSGB-II / SGB-XII-Quote
-1-2-1-title: Armut bei Kindern (< 15 Jahre; Bedarfsgemeinschaften)
-1-2-2-title: Armut bei Jugendlichen (15 – 17 Jahre; Bedarfsgemeinschaften)
-1-2-3-title: Armut bei Älteren (> 65 Jahre)
-2-1-1-title: Kinder mit Fehlernährung
-2-2-1-title: Ökologische Landwirtschaft
-2-3-1-title: Stickstoffüberschuss
-3-1-1-title: Wohnungsnahe Grundversorgung - Hausarzt
-3-2-1-title: Krankenhausversorgung
-3-3-1-title: Krankenhausbetten in der Psychiatrie
-3-4-1-title: Vorzeitige Sterblichkeit
-3-5-1-title: Alkoholbedingte Krankenhausaufenthalte von Jugendlichen
-3-6-1-title: Selbsttötung und Selbstschädigung mit Todesfolge
-3-7-1-title: Plätze in Pflegeheimen
-3-8-1-title: Personal in Pflegeheimen
-3-9-1-title: Personal in Pflegediensten
-3-10-1-title: Masern-Infektionen
-3-11-1-title: Luftqualität
-4-1-1-title: Betreuungsquote von Kleinkindern (unter 3-Jährige)
-4-2-1-title: Betreuungsquote von Kindern (3- bis 6-Jährige)
-4-3-1-title: Schulabbrecherquote
-4-4-1-title: Schulabschluss
-4-5-1-title: Auszubildende
-4-6-1-title: Kooperationsquote
-4-7-1-title: Vermittlungsquote (erster Arbeitsmarkt)
-4-8-1-title: Exklusionsquote
-5-1-1-title: Vollzeitbeschäftigungsquoten von Frauen und Männern
-5-1-2-title: Anteil der teilzeitbeschäftigten Frauen
-5-2-1-title: Relative Frauenarmut
-6-1-1-title: Ausweisung von Wasserschutzgebieten
-7-1-1-title: Endenergieverbrauch LRA
-7-1-2-title: Endenergieverbrauch Enzkreis (gesamt)
-7-1-3-title: Jährliche Einsparung/ Absenkpfad
-7-2-1-title: Erneuerbare Energien – Anteil am Endenergieverbrauch
-7-2-2-title: Erneuerbare Energien – Zubaurate (Enzkreis)
-7-2-3-title: Erneuerbare Energien – Installierte Leistung (Enzkreis)
-8-1-1-title: Bruttoinlandsprodukt
-8-2-1-title: Arbeitssuchende (gesamt)
-8-2-2-title: Arbeitssuchende Frauen
-8-2-3-title: Jugendarbeitslosigkeit (15- bis 25-Jährige)
-8-2-4-title: Arbeitslosigkeit bei über 55-Jährigen
-8-3-1-title: Langzeitarbeitslose (gesamt)
-8-3-2-title: Frauenlangzeitarbeitslosigkeit
-8-3-3-title: Männerlangzeitarbeitslosigkeit
-8-4-1-title: Beschäftigungsquote
-8-5-1-title: Erwerbsaufstocker
-9-1-1-title: Existenzgründungen
-9-2-1-title: Innovationsindex
-9-3-1-title: Hochqualifizierte
-10-1-1-title: Einkommensverteilung - Haushalte mit niedrigem Einkommen
-10-1-2-title: Einkommensverteilung - Haushalte mit mittlerem Einkommen
-10-1-3-title: Einkommensverteilung - Haushalte mit hohem Einkommen
-10-2-1-title: Relative Beschäftigungsquote von AusländerInnen
-10-3-1-title: Relative Armutsquote bei AusländerInnen
-10-4-1-title: Relative Schulabbrecherquote von AusländerInnen
-10-5-1-title: Einbürgerungen
-11-1-1-title: Mietpreise
-11-2-1-title: Flächenremanenz
-11-3-1-title: Wohnfläche
-11-4-1-title: Modal Split
-11-5-1-title: Kfz-Dichte
-11-6-1-title: Verunglückte im Straßenverkehr
-11-7-1-title: Flächeninanspruchnahme: Anteil Siedlungs- und Verkehrsfläche
-11-7-2-title: Flächeninanspruchnahme: Zuwachs gegenüber Vorjahr
-11-7-3-title: Flächeninanspruchnahme: Nutzungsintensität je EinwohnerInnen
-11-8-1-title: Naherholungsfläche
-12-1-1-title: Trinkwasserabgabe – Verbrauch (Haushalte und Kleingewerbe)
-12-1-2-title: Trinkwasserabgabe – Leitungsverluste
-12-2-1-title: Abfallmenge
-12-3-1-title: Unterstützer der WIN-Charta des Landes Baden-Württemberg
-12-4-1-title: Anteil von Recyclingpapier in der Verwaltung
-12-5-1-title: Fairtrade-Towns im Landkreis
-13-1-1-title: Treibhausgas-Emissionen – Landratsamt
-13-1-2-title: Treibhausgas-Emissionen – Enzkreis gesamt
-13-1-3-title: Treibhausgas-Emissionen – jährliche Einsparung
-13-1-4-title: Treibhausgas-Emissionen - Erreichen der Klimaziele
-13-2-1-title: Platzierung im European Energy Award – Ergebnis %
-13-2-2-title: Platzierung im European Energy Award – Vergleich BW, Bund
-14-1-1-title: Abwasserbehandlung in Kläranlagen
-15-1-1-title: Naturschutzflächen
-15-2-1-title: Altlasten mit Handlungsbedarf (Flächenanzahl)
-15-3-1-title: Landschaftsqualität (Hemerobie-Index)
-15-4-1-title: Unzerschnittene Freiraumflächen > 50 km2
-15-5-1-title: Streuobstwiesenfläche
-16-1-1-title: Straftaten
-16-2-1-title: Gesamtverschuldung
-16-3-1-title: Wahlbeteiligung bei Kommunalwahlen
-17-1-1-title: Kommunale Partnerschaften (Aufgewendete Mittel)
-17-1-2-title: Kommunale Partnerschaften (Anteil Fördermittel)
-17-2-1-title: Entwicklungspolitische Projekte
+1-1-1-title: Number of people using the social assistance portal
+1-2-1-title: Number of repair cafes, community workshops and ReUse shops in Treptow-Köpenick
+1-3-1-title: At-risk-of poverty rate in Treptow-Köpenick
+2-1-1-title: Publicly accessible fruit trees and kitchen gardens
+2-2-1-title: Fair certified food in Berlin's school catering system
+2-3-1-title: Kilograms of food rescued (foodsharing)
+3-1-1-title: City cycling - Number of people participating
+3-1-2-title: City cycling - Kilometers ridden by bicycle
+3-1-3-title: City cycling – Kilograms of CO2 saved
+3-2-1-title: Relative noise pollution in Treptow-Köpenick (Environmental justice)
+3-3-1-title: Relative air pollution in Treptow-Köpenick (Environmental justice)
+3-3-2-title: Air pollution limits in Treptow-Köpenick
+4-1-1-title: Number of schools participating in learning conferences per year
+4-2-1-title: Number of training courses offered on 'Education for Sustainable Development' (ESD) for educational staff at schools in Treptow-Köpenick
+4-3-1-title: Number of adult education center (VHS) courses on global learning, education for sustainable development (ESD) and SDGs
+4-4-1-title: To be defined
+4-5-1-title: Project participants of the project "Environmental School in Europe - International Sustainability School“
+5-1-1-title: Number of schools participating in the project day
+5-2-1-title: Number of trainings offered by the district office on gender-sensitive language use
+5-3-1-title: Number of projects, contact points and counseling services for girls and young women in Treptow-Köpenick
+5-4-1-title: Proportion of women in management positions in the public sector
+5-5-1-title: Proportion of women in the Treptow-Köpenick district assembly (BVV)
+6-1-1-title: Saprobity (organic load) and trophicity (nutrient load) of the Müggelsee lake
+6-2-1-title: Number of extracurricular institutions for nature and environmental education / education for sustainable development (ESD)
+6-2-2-title: Number of educational offerings of the network/coordination office for environmental education and education for sustainable development (ESD)
+6-3-1-title: Bathing water quality of the bathing sites within the district Treptow-Köpenick
+7-1-1-title: To be defined
+7-2-1-title: Number of photovoltaic systems on district-owned buildings
+7-2-2-title: Electricity generation on district-owned buildings (kWh/year)
+7-3-1-title: Photovoltaics - Total installations in the district 
+7-3-2-title: Photovoltaics - Electricity supply in the district
+7-3-3-title: Solar thermal energy - Total installations in the district
+8-1-1-title: Number of companies in Treptow-Köpenick that have a valid "Common Good Balance" certificate
+8-2-1-title: Number of participants in the mentoring program
+8-2-2-title: Proportion of applicants with immigration history
+8-3-1-title: Proportion of employees with immigration history
+8-3-2-title: Proportion of employees with immigration history in management positions in the local administration
+8-4-1-title: Number of municipal institutions in Treptow-Köpenick that have a valid "Common Good Balance" certificate
+8-5-1-title: Gross hourly earnings and earnings gaps between women and men (Gender Pay Gap unadjusted)
+9-1-1-title: Number of charging stations for e-cars
+9-1-2-title: Electricity consumption at electric charging stations 
+9-2-1-title: Number of public facilities with free WLAN access
+9-3-1-title: Broadband availability Mbit/s in %.
+10-1-1-title: Proportion of multilingual information materials
+10-2-1-title: Number of training courses offered within the district administration
+10-3-1-title: Number of companies conducting a Common Good Balance in Treptow-Köpenick
+10-4-1-title: Gini coefficient of equivalent income in Treptow-Köpenick
+11-1-1-title: Number of cargo bikes that can be borrowed free of charge in the district
+11-1-2-title: Number of cargo bike rentals
+11-2-1-title: Number of pick-up points for community-supported agriculture (CSA) products
+11-2-2-title: Number of beekeepers in the district
+11-2-3-title: Number of bee colonies in the district
+11-3-1-title: Number of tree patrons
+11-3-2-title: Financing of projects from neighborhood funds
+11-4-1-title: Frequency of means of transportation used on routes in Treptow-Köpenick
+11-5-1-title: Sports, leisure and recreation space in Treptow-Köpenick
+11-5-2-title: Total supply of public green spaces
+12-1-1-title: Number of training courses on sustainable and fair procurement per year
+12-2-1-title: Number of parishes that are part of the Fairtrade Town campaign
+12-2-2-title: Number of parishes with "Fair Parish" certification in the district
+12-3-1-title: Status of certification of the municipality as a Fairtrade Town
+12-4-1-title: Number of fair trade schools in Treptow-Köpenick
+13-1-1-title: Full-time equivalents for climate protection management
+13-1-2-title: Municipal Climate Protection Index
+13-2-1-title: Average weekday bicycle traffic at the Treptow-Köpenick Kaisersteg counting station
+13-2-2-title: Number of cargo bikes that can be borrowed free of charge in the district
+13-2-3-title: Kilometers of bike freeways in the district
+13-3-1-title: CO2 emissions from final energy consumption (polluter balance)
+14-1-1-title: Red list classification of fish species occurring in Berlin waters
+14-2-1-title: Number of residents attending ranger consultation hours
+14-3-1-title: To be defined
+15-1-1-title: Municipal Climate Adaptation Index
+15-2-1-title: Number of participations of the district in meetings and events of the biodiversity network per year
+15-3-1-title: Nature reserves and protected landscape areas (area in ha)
+15-4-1-title: To be defined
+16-1-1-title: Number of participatory events on the topic of SDGs organized by the Treptow-Köpenick district office per year
+16-2-1-title: Number of interfaith events per year
+16-3-1-title: Number of racist, anti-Semitic, homophobic and right-wing extremist incidents per year in Treptow-Köpenick
+16-4-1-title: Number of structures for citizen participation and actor networking in the district region profiles
+17-1-1-title: Number of activities with twin towns and events on the subject of city partnerships of the Treptow-Köpenick district office per year
+17-2-1-title: Quantity of fair trade coffee packages sold (Treptow-Köpenicker Bohne)
+17-3-1-title: City partnerships
+17-3-2-title: Community projects and partnerships
+17-3-3-title: School partnerships
+17-3-4-title: Other civil society projects
+17-3-5-title: Fair trade
+17-4-1-title: One world projects and partnerships in the Treptow-Köpenick district
+17-5-1-title: To be defined
+17-6-1-title: Public spending on development cooperation (Official Development Assistance, ODA) 

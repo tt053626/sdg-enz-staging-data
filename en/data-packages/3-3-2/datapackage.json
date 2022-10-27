@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Ozone 8-hour values",
-                "Ozone hourly values",
-                "Particulates (PM10)"
+                "data.ozonacht",
+                "data.ozonst",
+                "data.pm"
               ]
             },
-            "title": "Air quality"
+            "title": "data.luftg"
           }
         ]
       }

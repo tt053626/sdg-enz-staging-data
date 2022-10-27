@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Repair Cafes",
-                "ReUse Shops",
-                "Community Workshops"
+                "data.repcaf",
+                "data.reuse",
+                "data.workshops"
               ]
             },
-            "title": "Group"
+            "title": "data.group"
           }
         ]
       }
@@ -39,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-1",
-  "title": "Number of repair cafes, community workshops and ReUse shops in Treptow-Köpenick"
+  "title": "1-2-1"
 }

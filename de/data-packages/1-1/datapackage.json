@@ -12,7 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Group",
@@ -23,17 +24,19 @@
                 "B",
                 ""
               ]
-            }
+            },
+            "title": "Group"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "integer",
+            "title": "Value"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "1-1-1",
-  "title": "1-1-1"
+  "name": "1-1",
+  "title": "1-1"
 }

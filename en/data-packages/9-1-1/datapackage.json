@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Publicly accessible - on private land",
-                "Public space",
-                "Total"
+                "data.private",
+                "data.public",
+                "data.tot"
               ]
             },
-            "title": "Location"
+            "title": "data.standort"
           }
         ]
       }
@@ -39,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-1",
-  "title": "Number of charging stations for e-cars"
+  "title": "9-1-1"
 }

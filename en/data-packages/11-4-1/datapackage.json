@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Walking",
-                "Motorized private transport",
-                "Public transport",
-                "Bicycle"
+                "data.fuss",
+                "data.miv",
+                "data.offis",
+                "data.rad"
               ]
             },
-            "title": "Main means of transport"
+            "title": "data.maintransport"
           },
           {
             "name": "data.spatialtypes",
@@ -40,12 +40,12 @@
             "constraints": {
               "enum": [
                 "",
-                "All routes",
-                "Domestic traffic",
-                "Source and destination traffic"
+                "data.allewege",
+                "data.binnen",
+                "data.quell"
               ]
             },
-            "title": "Traffic flow types"
+            "title": "data.spatialtypes"
           }
         ]
       }
@@ -53,5 +53,5 @@
   ],
   "profile": "data-package",
   "name": "11-4-1",
-  "title": "Frequency of means of transportation used on routes in Treptow-Köpenick"
+  "title": "11-4-1"
 }

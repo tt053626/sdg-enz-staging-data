@@ -26,12 +26,12 @@
             "constraints": {
               "enum": [
                 "",
-                "High",
-                "Low",
-                "Medium"
+                "data.high",
+                "data.low",
+                "data.medium"
               ]
             },
-            "title": "Relative air pollution"
+            "title": "data.air"
           }
         ]
       }
@@ -39,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-1",
-  "title": "Relative air pollution in Treptow-Köpenick (Environmental justice)"
+  "title": "3-3-1"
 }

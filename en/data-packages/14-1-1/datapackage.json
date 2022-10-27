@@ -26,19 +26,19 @@
             "constraints": {
               "enum": [
                 "",
-                "Data Deficient",
-                "Threatened",
-                "Not Evaluated",
-                "Threatened with Extinction",
-                "Threat of Unknown Extent",
-                "Extinct or Lost",
-                "Extremely Rare",
-                "Near Threatened",
-                "Highly Threatened",
-                "Not Threatened"
+                "data.rld",
+                "data.rldrei",
+                "data.rle",
+                "data.rleins",
+                "data.rlg",
+                "data.rlnull",
+                "data.rlr",
+                "data.rlv",
+                "data.rlzwei",
+                "data.tlu"
               ]
             },
-            "title": "Red List Categories"
+            "title": "data.redlistcat"
           }
         ]
       }
@@ -46,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "14-1-1",
-  "title": "Red list classification of fish species occurring in Berlin waters"
+  "title": "14-1-1"
 }

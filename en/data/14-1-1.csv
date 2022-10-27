@@ -1,11 +1,11 @@
-Year,Red List Categories,Value
-2013,Extinct or Lost,7
-2013,Threatened with Extinction,0
-2013,Highly Threatened,2
-2013,Threatened,4
-2013,Threat of Unknown Extent,0
-2013,Extremely Rare,1
-2013,Near Threatened,4
-2013,Not Threatened,17
-2013,Data Deficient,0
-2013,Not Evaluated,0
+Year,data.redlistcat,Value
+2013,data.rlnull,7
+2013,data.rleins,0
+2013,data.rlzwei,2
+2013,data.rldrei,4
+2013,data.rlg,0
+2013,data.rlr,1
+2013,data.rlv,4
+2013,data.tlu,17
+2013,data.rld,0
+2013,data.rle,0

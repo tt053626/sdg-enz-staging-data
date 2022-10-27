@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Yes-Answers",
-                "No-Answers"
+                "data.ja",
+                "data.nein"
               ]
             },
-            "title": "Answers"
+            "title": "data.antworten"
           }
         ]
       }
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-1",
-  "title": "Municipal Climate Adaptation Index"
+  "title": "15-1-1"
 }

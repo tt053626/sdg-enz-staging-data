@@ -38,10 +38,10 @@
                 "Subotica",
                 "Veszprem",
                 "Warszawa",
-                "Total"
+                "data.tot"
               ]
             },
-            "title": "Twin Town"
+            "title": "data.partner"
           }
         ]
       }
@@ -49,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "17-1-1",
-  "title": "Number of activities with twin towns and events on the subject of city partnerships of the Treptow-Köpenick district office per year"
+  "title": "17-1-1"
 }

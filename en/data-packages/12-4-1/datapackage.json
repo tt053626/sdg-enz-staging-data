@@ -16,9 +16,9 @@
             "constraints": {
               "enum": [
                 "",
-                "In application",
-                "No application",
-                "Fairtrade-School certified"
+                "data.inB",
+                "data.keineB",
+                "data.zert"
               ]
             },
             "title": "Status"
@@ -39,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "12-4-1",
-  "title": "Number of fair trade schools in Treptow-Köpenick"
+  "title": "12-4-1"
 }

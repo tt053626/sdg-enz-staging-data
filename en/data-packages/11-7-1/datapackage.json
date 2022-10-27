@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Sports, leisure and recreation area",
-                "Industrial and commercial area",
-                "Settlement area",
-                "Residential area"
+                "data.freiz",
+                "data.indu",
+                "data.sied",
+                "data.wohn"
               ]
             },
-            "title": "Area"
+            "title": "data.area"
           }
         ]
       }

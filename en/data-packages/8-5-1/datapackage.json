@@ -27,11 +27,11 @@
               "enum": [
                 "",
                 "Gender Pay Gap",
-                "Men",
-                "Women"
+                "data.m",
+                "data.w"
               ]
             },
-            "title": "Sex"
+            "title": "data.sex"
           }
         ]
       }
@@ -39,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-1",
-  "title": "Gross hourly earnings and earnings gaps between women and men (Gender Pay Gap unadjusted)"
+  "title": "8-5-1"
 }

@@ -26,13 +26,13 @@
             "constraints": {
               "enum": [
                 "",
-                "High",
-                "Low",
-                "Medium",
-                "No values"
+                "data.high",
+                "data.low",
+                "data.medium",
+                "data.no"
               ]
             },
-            "title": "Relative noise pollution"
+            "title": "data.noise"
           }
         ]
       }
@@ -40,5 +40,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-1",
-  "title": "Relative noise pollution in Treptow-Köpenick (Environmental justice)"
+  "title": "3-2-1"
 }

@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Saprobity",
-                "Trophicity"
+                "data.saprobie",
+                "data.trophie"
               ]
             },
-            "title": "Status"
+            "title": "data.zustand"
           }
         ]
       }
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-1",
-  "title": "Saprobity (organic load) and trophicity (nutrient load) of the Müggelsee lake"
+  "title": "6-1-1"
 }

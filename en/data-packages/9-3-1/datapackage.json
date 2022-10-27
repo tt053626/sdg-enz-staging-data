@@ -35,7 +35,7 @@
                 "50 Mbit/s"
               ]
             },
-            "title": "Availability"
+            "title": "data.availability"
           }
         ]
       }
@@ -43,5 +43,5 @@
   ],
   "profile": "data-package",
   "name": "9-3-1",
-  "title": "Broadband availability Mbit/s in %."
+  "title": "9-3-1"
 }

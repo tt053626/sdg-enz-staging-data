@@ -26,11 +26,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Indoor",
-                "Outdoor"
+                "data.indoor",
+                "data.outdoor"
               ]
             },
-            "title": "Access Points"
+            "title": "data.zug"
           }
         ]
       }
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "9-2-1",
-  "title": "Number of public facilities with free WLAN access"
+  "title": "9-2-1"
 }

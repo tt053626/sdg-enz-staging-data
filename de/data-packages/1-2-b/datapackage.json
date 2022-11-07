@@ -16,22 +16,20 @@
             "title": "Year"
           },
           {
-            "name": "data.area",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsfläche",
-                "Wohnbaufläche",
-                "Industrie- und Gewerbefläche",
-                "Sport-, Freizeit- und Erholungsfläche",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Fläche"
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

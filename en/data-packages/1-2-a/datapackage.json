@@ -17,8 +17,7 @@
               "enum": [
                 "",
                 "Enzkreis",
-                "Land.BW",
-                "Land.BWs"
+                "Land BW"
               ]
             },
             "title": "Region"

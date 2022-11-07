@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Enzkreis",
+                "Land.BW",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Region"
           },
           {
             "name": "Value",

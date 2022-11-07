@@ -12,29 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "integer",
+            "title": "Year"
           },
           {
-            "name": "data.group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.repcaf",
-                "data.workshops",
-                "data.reuse",
+                "Enzkreis",
+                "Land.BW",
+                "Land.BWs",
                 ""
               ]
-            }
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "integer",
+            "title": "Value"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "1-2",
-  "title": "1-2"
+  "name": "1-2 (a)",
+  "title": "1-2 (a)"
 }

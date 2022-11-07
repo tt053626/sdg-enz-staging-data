@@ -11,6 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land.BW",
+                "Land.BWs"
+              ]
+            },
+            "title": "Region"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -19,25 +32,12 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "data.repcaf",
-                "data.reuse",
-                "data.workshops"
-              ]
-            },
-            "title": "data.group"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "1-2",
-  "title": "1-2"
+  "name": "1-2 (a)",
+  "title": "1-2 (a)"
 }

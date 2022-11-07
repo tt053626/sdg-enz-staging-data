@@ -1,8 +1,8 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1,Group,1
-#1-2 (a),Region,1
-#1-3,data.area,1
-#1-4,data.area,1
+#1-2-a,Region,1
+#1-2-b,data.area,1
+#1-2-c,data.area,1
 #10-1-1,Group,1
 #10-1-2,Group,1
 #10-1-3,Group,1

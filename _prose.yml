@@ -29,20 +29,20 @@ prose:
             translation_key: metadata_fields.layout
             scope: page
 
-    ######### Global Metadata #########
+######### National Metadata #########
       - name: "indicator_number"
         field:
             element: text
             label: "Indicator number"
             translation_key: metadata_fields.indicator
-            scope: global
+            scope: national
       - name: "indicator_name"
         field:
             element: text
             label: "Indicator name"
             translation_key: metadata_fields.indicator_name
-            scope: global
-      ######### National Metadata #########
+            scope: national
+      
       - name: "computation_definitions"
         field:
             element: textarea

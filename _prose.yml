@@ -45,8 +45,7 @@ prose:
       - name: "sdg_goal"
         field:
             element: text
-            label: "SDG Goal"
-            translation_key: metadata_fields.sdg_goal
+            label: "SDGs"
             scope: global
       ######### National Metadata #########
       - name: "computation_definitions"

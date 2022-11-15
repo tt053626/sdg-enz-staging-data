@@ -30,22 +30,17 @@ prose:
             scope: page
 
     ######### Global Metadata #########
-      - name: "indicator_name"
-        field:
-            element: text
-            label: "Indicator name"
-            translation_key: metadata_fields.indicator_name
-            scope: global
       - name: "indicator_number"
         field:
             element: text
             label: "Indicator number"
             translation_key: metadata_fields.indicator
             scope: global
-      - name: "sdg_goal"
+      - name: "indicator_name"
         field:
             element: text
-            label: "SDGs"
+            label: "Indicator name"
+            translation_key: metadata_fields.indicator_name
             scope: global
       ######### National Metadata #########
       - name: "computation_definitions"
@@ -79,11 +74,11 @@ prose:
             label: "Earliest available data"
             translation_key: metadata_fields.source_earliest_available_1
             scope: national
-      - name: source_organisation_1
+      - name: "SOURCE_TYPE"
         field:
             element: text
-            label: "Organisation"
-            translation_key: metadata_fields.source_organisation_1
+            label: "Data sources"
+            translation_key: metadata_fields.SOURCE_TYPE
             scope: national
 
       - name: "national_data_update_url"

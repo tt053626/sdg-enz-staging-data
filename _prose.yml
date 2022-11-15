@@ -42,6 +42,12 @@ prose:
             label: "Indicator number"
             translation_key: metadata_fields.indicator
             scope: global
+      - name: "sdg_goal"
+        field:
+            element: text
+            label: "SDG Goal"
+            translation_key: metadata_fields.sdg_goal
+            scope: global
       ######### National Metadata #########
       - name: "computation_definitions"
         field:
@@ -81,12 +87,6 @@ prose:
             translation_key: metadata_fields.source_organisation_1
             scope: national
 
-      - name: "comments_limitations"
-        field:
-            element: text
-            label: "Comments and limitations"
-            translation_key: metadata_fields.comments_limitations
-            scope: national
       - name: "national_data_update_url"
         field:
             element: hidden
@@ -111,6 +111,13 @@ prose:
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url_text
             scope: national
+      - name: "comments_limitations"
+        field:
+            element: text
+            label: "Comments and limitations"
+            translation_key: metadata_fields.comments_limitations
+            scope: national
+            
 
        ######### Data Info #########
       - name: "reporting_status"

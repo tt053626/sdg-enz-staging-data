@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "Enzkreis",
-                "Land.BW",
+                "Land BW",
                 ""
               ]
             }

@@ -28,6 +28,7 @@ prose:
             label: "Layout"
             translation_key: metadata_fields.layout
             scope: page
+
     ######### Global Metadata #########
       - name: "indicator_name"
         field:
@@ -37,28 +38,16 @@ prose:
             scope: global
       - name: "indicator_number"
         field:
-            element: hidden
+            element: text
             label: "Indicator number"
             translation_key: metadata_fields.indicator
             scope: global
       ######### National Metadata #########
-      - name: "national_indicator_available"
+      - name: "computation_definitions"
         field:
-            element: hidden
-            label: "Indicator available"
-            translation_key: metadata_fields.national_indicator_available
-            scope: national
-      - name: "national_indicator_description"
-        field:
-            element: hidden
-            label: "Indicator description"
-            translation_key: metadata_fields.national_indicator_description
-            scope: national
-      - name: "national_geographical_coverage"
-        field:
-            element: text
-            label: "Geographical coverage"
-            translation_key: metadata_fields.national_geographical_coverage
+            element: textarea
+            label: "Definitions"
+            translation_key: metadata_fields.computation_definitions
             scope: national
       - name: "computation_units"
         field:
@@ -66,36 +55,32 @@ prose:
             label: "Unit of measurement"
             translation_key: metadata_fields.computation_units
             scope: national
-      - name: "computation_definitions"
+      - name: "national_geographical_coverage"
         field:
-            element: textarea
-            label: "Definitions"
-            translation_key: metadata_fields.computation_definitions
+            element: text
+            label: "Geographical coverage"
+            translation_key: metadata_fields.national_geographical_coverage
             scope: national
-      - name: "computation_calculations"
+
+      - name: "source_periodicity_1"
         field:
-            element: hidden
-            label: "Calculations"
-            translation_key: metadata_fields.computation_calculations
+            element: text
+            label: "Periodicity"
+            translation_key: metadata_fields.source_periodicity_1
             scope: national
-      - name: "other_info"
+      - name: "source_earliest_available_1"
         field:
-            element: hidden
-            label: "Other information"
-            translation_key: metadata_fields.other_info
+            element: text
+            label: "Earliest available data"
+            translation_key: metadata_fields.source_earliest_available_1
             scope: national
-      - name: "quality_assurance"
+      - name: source_organisation_1
         field:
-            element: hidden
-            label: "Quality assurance"
-            translation_key: metadata_fields.quality_assurance
+            element: text
+            label: "Organisation"
+            translation_key: metadata_fields.source_organisation_1
             scope: national
-      - name: "international_comparability"
-        field:
-            element: hidden
-            label: "Comparability with international data/standards"
-            translation_key: metadata_fields.international_comparability
-            scope: national
+
       - name: "comments_limitations"
         field:
             element: text
@@ -126,6 +111,7 @@ prose:
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url_text
             scope: national
+
        ######### Data Info #########
       - name: "reporting_status"
         field:
@@ -216,6 +202,7 @@ prose:
             label: "Graph Title"
             translation_key: metadata_fields.graph_title
             scope: graph
+
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
@@ -225,30 +212,11 @@ prose:
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
             value: true
-      - name: source_organisation_1
-        field:
-            element: text
-            label: "Organisation"
-            translation_key: metadata_fields.source_organisation_1
-            scope: source_1
-      - name: "source_periodicity_1"
-        field:
-            element: text
-            label: "Periodicity"
-            translation_key: metadata_fields.source_periodicity_1
-            scope: source_1
-      - name: "source_earliest_available_1"
-        field:
-            element: text
-            label: "Earliest available data"
-            translation_key: metadata_fields.source_earliest_available_1
-            scope: source_1
-      - name: "source_geographical_coverage_1"
-        field:
-            element: hidden
-            label: "Geographical coverage"
-            translation_key: metadata_fields.source_geographical_coverage_1
-            scope: source_1
+
+
+
+
+
       - name: "source_url_1"
         field:
             element: text

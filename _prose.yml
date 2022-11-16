@@ -81,23 +81,11 @@ prose:
             translation_key: metadata_fields.SOURCE_TYPE
             scope: national
 
-      - name: "national_data_update_url"
-        field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url
-            scope: national
       - name: "national_data_update_url_text"
         field:
             element: hidden
             label: "Data last updated"
             translation_key: metadata_fields.national_data_update_url_text
-            scope: national
-      - name: "national_metadata_update_url"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url
             scope: national
       - name: "national_metadata_update_url_text"
         field:
@@ -105,6 +93,7 @@ prose:
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url_text
             scope: national
+            
       - name: "comments_limitations"
         field:
             element: text

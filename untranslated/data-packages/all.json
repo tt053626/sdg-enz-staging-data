@@ -491,6 +491,39 @@
       "title": "2-2"
     },
     {
+      "path": "15-1/data.csv",
+      "name": "15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.antworten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.ja",
+                "data.nein",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "15-1"
+    },
+    {
       "path": "8-3-b/data.csv",
       "name": "8-3-b",
       "profile": "tabular-data-resource",
@@ -522,39 +555,6 @@
         ]
       },
       "title": "8-3-b"
-    },
-    {
-      "path": "15-1-/data.csv",
-      "name": "15-1-",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "data.antworten",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.ja",
-                "data.nein",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "15-1-"
     },
     {
       "path": "12-1-b/data.csv",
@@ -2752,28 +2752,6 @@
       "title": "5-2"
     },
     {
-      "path": "11-8 copy/data.csv",
-      "name": "11-8 copy",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "11-8 copy"
-    },
-    {
       "path": "17-1-a/data.csv",
       "name": "17-1-a",
       "profile": "tabular-data-resource",
@@ -2794,28 +2772,6 @@
         ]
       },
       "title": "17-1-a"
-    },
-    {
-      "path": "15-1/data.csv",
-      "name": "15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "15-1"
     }
   ]
 }

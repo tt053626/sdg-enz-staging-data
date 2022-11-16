@@ -16,17 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "fLotte",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "fLotte kommunal",
-                "fLotte nicht-kommunal",
-                "Gesamt",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "fLotte"
+            "title": "Region"
           },
           {
             "name": "Value",

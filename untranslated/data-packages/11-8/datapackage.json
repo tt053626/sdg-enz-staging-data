@@ -15,14 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "data.area",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.sied",
-                "data.wohn",
-                "data.indu",
-                "data.freiz",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

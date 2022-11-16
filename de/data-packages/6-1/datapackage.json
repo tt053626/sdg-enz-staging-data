@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "data.zustand",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Saprobie",
-                "Trophie",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Zustand"
+            "title": "Region"
           },
           {
             "name": "Value",

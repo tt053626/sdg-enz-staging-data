@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -19,26 +31,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.redlistcat",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "data.rld",
-                "data.rldrei",
-                "data.rle",
-                "data.rleins",
-                "data.rlg",
-                "data.rlnull",
-                "data.rlr",
-                "data.rlv",
-                "data.rlzwei",
-                "data.tlu"
-              ]
-            },
-            "title": "data.redlistcat"
           }
         ]
       }

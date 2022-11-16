@@ -16,17 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "data.air",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Gering",
-                "Mittel",
-                "Hoch",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Relative Luftbelastung"
+            "title": "Region"
           },
           {
             "name": "Value",

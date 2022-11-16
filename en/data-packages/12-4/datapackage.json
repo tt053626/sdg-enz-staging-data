@@ -11,17 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "Status",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "data.inB",
-                "data.keineB",
-                "data.zert"
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "Status"
+            "title": "Region"
           },
           {
             "name": "Value",

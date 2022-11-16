@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "data.antworten",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.ja",
-                "data.nein",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

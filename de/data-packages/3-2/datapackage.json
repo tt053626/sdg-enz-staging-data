@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,18 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "data.noise",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Keine Werte",
-                "Gering",
-                "Mittel",
-                "Hoch",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Relative Lärmbelastung"
+            "title": "Region"
           },
           {
             "name": "Value",

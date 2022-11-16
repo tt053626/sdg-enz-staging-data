@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "data.zustand",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.saprobie",
-                "data.trophie",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

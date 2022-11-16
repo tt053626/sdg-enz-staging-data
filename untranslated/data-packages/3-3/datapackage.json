@@ -15,13 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "data.air",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.low",
-                "data.medium",
-                "data.high",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

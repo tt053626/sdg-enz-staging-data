@@ -1,8 +1,5 @@
-Year,data.availability,Value
-2021,10 Mbit/s,100
-2021,16 Mbit/s,99
-2021,30 Mbit/s,97
-2021,50 Mbit/s,96
-2021,100 Mbit/s,92
-2021,200 Mbit/s,89
-2021,1000 Mbit/s,87
+Year,Region,Value
+2030,Enzkreis,0
+2031,Enzkreis,0
+2030,Land BW,0
+2031,Land BW,0

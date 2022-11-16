@@ -12,11 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enzkreis",
+                "Land BW",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }

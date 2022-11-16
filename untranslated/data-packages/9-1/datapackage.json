@@ -15,13 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "data.standort",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.public",
-                "data.private",
-                "data.tot",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

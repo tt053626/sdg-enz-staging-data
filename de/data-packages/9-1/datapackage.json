@@ -16,17 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "data.standort",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Öffentlicher Raum",
-                "Öffentlich zugänglich - auf privatem Grund",
-                "Gesamt",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Standort"
+            "title": "Region"
           },
           {
             "name": "Value",

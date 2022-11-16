@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Enzkreis",
+                "Land BW"
+              ]
+            },
+            "title": "Region"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -19,20 +31,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.noise",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "data.high",
-                "data.low",
-                "data.medium",
-                "data.no"
-              ]
-            },
-            "title": "data.noise"
           }
         ]
       }

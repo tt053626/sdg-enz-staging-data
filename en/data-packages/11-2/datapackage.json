@@ -11,45 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "District",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Treptow-Köpenick"
+                "Enzkreis",
+                "Land BW"
               ]
             },
-            "title": "District"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Ortsteil",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Adlershof",
-                "Alt-Treptow",
-                "Altglienicke",
-                "Baumschulenweg",
-                "Bohnsdorf",
-                "Friedrichshagen",
-                "Grünau",
-                "Johannisthal",
-                "Köpenick",
-                "Müggelheim",
-                "Niederschöneweide",
-                "Oberschöneweide",
-                "Plänterwald",
-                "Rahnsdorf",
-                "Schmöckwitz"
-              ]
-            },
-            "title": "Ortsteil"
+            "title": "Region"
           },
           {
             "name": "Value",

@@ -16,45 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Ortsteil",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Alt-Treptow",
-                "Plänterwald",
-                "Baumschulenweg",
-                "Johannisthal",
-                "Niederschöneweide",
-                "Altglienicke",
-                "Adlershof",
-                "Bohnsdorf",
-                "Oberschöneweide",
-                "Köpenick",
-                "Friedrichshagen",
-                "Rahnsdorf",
-                "Grünau",
-                "Müggelheim",
-                "Schmöckwitz",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Ortsteil"
-          },
-          {
-            "name": "District",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Treptow-Köpenick",
-                ""
-              ]
-            },
-            "title": "District"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
+            "title": "Region"
           },
           {
             "name": "Value",

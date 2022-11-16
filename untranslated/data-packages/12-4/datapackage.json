@@ -15,13 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Status",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.keineB",
-                "data.inB",
-                "data.zert",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

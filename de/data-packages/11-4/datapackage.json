@@ -16,35 +16,20 @@
             "title": "Year"
           },
           {
-            "name": "data.maintransport",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zu Fuß",
-                "Fahrrad",
-                "Motorisierter Individualverkehr",
-                "Öffentlicher Verkehr",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Hauptverkehrsmittel"
-          },
-          {
-            "name": "data.spatialtypes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Binnenverkehr",
-                "Quell- u. Zielverkehr",
-                "Alle Wege",
-                ""
-              ]
-            },
-            "title": "Verkehrsströme"
+            "title": "Region"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

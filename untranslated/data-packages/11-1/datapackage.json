@@ -15,13 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "fLotte",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "fLotte kommunal",
-                "fLotte nicht-kommunal",
-                "data.tot",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

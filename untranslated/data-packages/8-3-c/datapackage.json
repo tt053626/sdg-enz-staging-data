@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

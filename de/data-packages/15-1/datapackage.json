@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "data.antworten",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ja",
-                "Nein",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Antworten"
+            "title": "Region"
           },
           {
             "name": "Value",

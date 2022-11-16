@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "data.zug",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.indoor",
-                "data.outdoor",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

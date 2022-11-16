@@ -15,17 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "data.availability",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "10 Mbit/s",
-                "16 Mbit/s",
-                "30 Mbit/s",
-                "50 Mbit/s",
-                "100 Mbit/s",
-                "200 Mbit/s",
-                "1000 Mbit/s",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             }

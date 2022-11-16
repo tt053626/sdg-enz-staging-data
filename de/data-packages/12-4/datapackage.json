@@ -16,17 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Status",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Keine Bewerbung",
-                "In Bewerbung",
-                "Fairtrade-School zertifiziert",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Region"
           },
           {
             "name": "Value",

@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "data.zug",
+            "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Innenbereich",
-                "Außenbereich",
+                "Enzkreis",
+                "Land BW",
                 ""
               ]
             },
-            "title": "Zugangspunkte"
+            "title": "Region"
           },
           {
             "name": "Value",

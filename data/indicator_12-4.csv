@@ -1,13 +1,5 @@
-Year,Status,Value
-2017,data.keineB,60
-2017,data.inB,0
-2017,data.zert,0
-2018,data.keineB,59
-2018,data.inB,1
-2018,data.zert,0
-2019,data.keineB,59
-2019,data.inB,1
-2019,data.zert,0
-2020,data.keineB,59
-2020,data.inB,1
-2020,data.zert,0
+Year,Region,Value
+2030,Enzkreis,0
+2031,Enzkreis,0
+2030,Land BW,0
+2031,Land BW,0

@@ -13,18 +13,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -33,6 +28,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -49,18 +49,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -69,6 +64,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -85,18 +85,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -105,6 +100,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -121,18 +121,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -141,6 +136,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -157,18 +157,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -177,6 +172,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -193,18 +193,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -213,6 +208,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -229,18 +229,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -249,6 +244,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -265,18 +265,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -285,6 +280,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -301,18 +301,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -321,6 +316,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -337,18 +337,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -357,6 +352,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -373,18 +373,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -393,6 +388,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -409,18 +409,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -429,6 +424,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -445,18 +445,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -465,6 +460,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -481,18 +481,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -501,6 +496,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -517,18 +517,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -537,6 +532,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -553,18 +553,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -573,6 +568,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -589,18 +589,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -609,6 +604,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -625,18 +625,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -645,6 +640,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -661,18 +661,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -681,6 +676,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -697,18 +697,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -717,6 +712,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -733,18 +733,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -753,6 +748,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -769,18 +769,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -789,6 +784,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -805,18 +805,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -825,6 +820,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -841,18 +841,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -861,6 +856,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -877,18 +877,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -897,6 +892,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -913,18 +913,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -933,6 +928,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -949,18 +949,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -969,6 +964,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -985,18 +985,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1005,6 +1000,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1021,18 +1021,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1041,6 +1036,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1057,18 +1057,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1077,6 +1072,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1093,18 +1093,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1113,6 +1108,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1129,18 +1129,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1149,6 +1144,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1165,18 +1165,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1185,6 +1180,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1201,18 +1201,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1221,6 +1216,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1237,18 +1237,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1257,6 +1252,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1273,18 +1273,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1293,6 +1288,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1309,18 +1309,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1329,6 +1324,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1345,18 +1345,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1365,6 +1360,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1381,18 +1381,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1401,6 +1396,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1417,18 +1417,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1437,6 +1432,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1453,18 +1453,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1473,6 +1468,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1489,18 +1489,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1509,6 +1504,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1525,18 +1525,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1545,6 +1540,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1561,18 +1561,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1581,6 +1576,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1597,18 +1597,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1617,6 +1612,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1633,18 +1633,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1653,6 +1648,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1669,18 +1669,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1689,6 +1684,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1705,18 +1705,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1725,6 +1720,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1741,18 +1741,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1761,6 +1756,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1777,18 +1777,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1797,6 +1792,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1813,18 +1813,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1833,6 +1828,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1849,18 +1849,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1869,6 +1864,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1885,18 +1885,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1905,6 +1900,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1921,18 +1921,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1941,6 +1936,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1957,18 +1957,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -1977,6 +1972,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1993,18 +1993,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2013,6 +2008,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2029,18 +2029,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2049,6 +2044,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2065,18 +2065,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2085,6 +2080,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2101,18 +2101,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2121,6 +2116,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2137,18 +2137,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2157,6 +2152,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2173,18 +2173,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2193,6 +2188,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2209,18 +2209,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2229,6 +2224,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2245,18 +2245,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2265,6 +2260,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2281,18 +2281,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2301,6 +2296,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2317,18 +2317,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2337,6 +2332,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2353,19 +2353,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Gruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "Untergewicht",
+                "",
                 "Normalgewicht",
-                "Übergewicht",
-                ""
+                "Untergewicht",
+                "Übergewicht"
               ]
             },
             "title": "Gruppe"
@@ -2374,6 +2369,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2390,18 +2390,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2410,6 +2405,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2426,18 +2426,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2446,6 +2441,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2462,18 +2462,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2482,6 +2477,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2498,18 +2498,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2518,6 +2513,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2534,18 +2534,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2554,6 +2549,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2570,18 +2570,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2590,6 +2585,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2606,18 +2606,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2626,6 +2621,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2642,18 +2642,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2662,6 +2657,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2678,18 +2678,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2698,6 +2693,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2714,18 +2714,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2734,6 +2729,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2750,18 +2750,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2770,6 +2765,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2786,18 +2786,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2806,6 +2801,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2822,18 +2822,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2842,6 +2837,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2858,18 +2858,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2878,6 +2873,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2894,18 +2894,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2914,6 +2909,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2930,18 +2930,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2950,6 +2945,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2966,18 +2966,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -2986,6 +2981,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3002,18 +3002,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -3022,6 +3017,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3038,18 +3038,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -3058,6 +3053,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3074,18 +3074,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -3094,6 +3089,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3110,18 +3110,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -3130,6 +3125,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3146,18 +3146,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -3166,6 +3161,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3182,18 +3182,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -3202,6 +3197,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3218,18 +3218,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Enzkreis",
-                "Land BW",
-                ""
+                "Land BW"
               ]
             },
             "title": "Region"
@@ -3238,6 +3233,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
